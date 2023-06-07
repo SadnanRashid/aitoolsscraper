@@ -6,15 +6,19 @@ const {
 } = require("../file_write");
 
 for (let i = 0; i < data.length; i++) {
-  if (data[i].tags[0] === "free") {
-    data[i].payment = "free";
-  } else if (data[i].tags[0] === "paid") {
-    data[i].payment = "paid";
-  } else if (data[i].tags[0] === "freemium") {
-    data[i].payment = "freemium";
-  } else {
-    data[i].payment = "freemium";
-  }
+  data[i].tags.push(data[i].category);
 }
+
+// for (let i = 0; i < data.length; i++) {
+//   if (data[i].tags[0] === "free") {
+//     data[i].payment = "free";
+//   } else if (data[i].tags[0] === "paid") {
+//     data[i].payment = "paid";
+//   } else if (data[i].tags[0] === "freemium") {
+//     data[i].payment = "freemium";
+//   } else {
+//     data[i].payment = "freemium";
+//   }
+// }
 
 writeToFileArray(data, "AiValleyPretty.json");
