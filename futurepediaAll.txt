@@ -1,0 +1,1016 @@
+[
+  {
+    "title": "Photo AI",
+    "description": "Photo AI is a revolutionary artificial intelligence tool for generating photorealistic images in various settings. Key features and advantages include:\n\nAI photographer: Automatically create images with different outfits, lighting, and settings\n\nCustomizable options: Adjust lighting, emotion, age, and action to be portrayed in the image\n\nTrain your own model: Upload 25-250 photos to create a unique AI-generated model\n\nUse cases for Photo AI are ideal for various individuals:\n\nPhotographers seeking to create diverse and unique images without physical limitations\n\nFashion enthusiasts wanting to explore different outfits, aesthetics, and environments\n\nContent creators looking to generate visually stunning images for their projects\n\nOverall, Photo AI offers a groundbreaking solution for generating photorealistic images in any setting, revolutionizing the world of photography.",
+    "category": [
+      "image editing",
+      "avatars"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/a4be7dc09853401f3150f72df462c85d8650916b-1920x949.jpg",
+    "subtitle": "The first AI photographer",
+    "tags": [
+      "image editing",
+      "avatars"
+    ]
+  },
+  {
+    "title": "KeywordSearch",
+    "description": "KeywordSearch uses AI to Maximize ROI for your Google & YouTube Ad Campaigns. Discover the Best Ad Audiences for your Business in minutes using AI & Sync them to your Ad Account in One Click.\n\nKey Features:\n\nAI Audience Builder - Build The Best Ad Audiences Segments in Seconds using our AI Algorithm\n\nYouTube Keyword Research - Discover the Best Keywords for your YouTube Videos & YouTube Ads\n\nYouTube Ad Spy - Spy on Competitors' YouTube Ads & Even see their Targeted Keywords\n\nOne Click Sync to Google Ads - Sync your Ad Audiences & Keywords in One Click to Google Ads\n\nUse Cases:\n\nOptimize Marketing Campaigns on YouTube Ads & Google Ads to reach your Ideal Audience\n\nBuild New Audience Segments to Split Test in Seconds using our AI Audience Builder Algorithm\n\nImprove Conversion Rates and ROI by Targeting Potential Customers who are more likely to Engage with your Content.\n\nSpy on Competitors YouTube Ads & Even See the Targeting they're likely using & Add it to your Campaigns\n\nGrow Your YouTube Channel by Discovering the Best YouTube Keywords to Rank Videos with Ease\n\nSync your New Ad Audiences & Keywords to Google in One Click with the Ad Sync Feature\n\nHarness the power of KeywordSearch to optimize your video marketing campaigns and maximize leads and sales by connecting with the right audiences around the world!",
+    "category": [
+      "social media assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/fd8d2f57c851c40c0dc6b9d6672bf04c296e7a00-3772x2410.png",
+    "subtitle": "KeywordSearch AI boosts ROI for Google & YouTube Ads. Find Best Ad Audiences for Business in minutes using AI & Sync them to Ad Account in One Click",
+    "tags": [
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "Adcreative.ai",
+    "description": "AdCreative.ai is an AI-powered ad creative and banner generator aimed at boosting conversions for businesses. Key features and advantages include:\n\nConversion-focused creatives: Generate ad creatives in minutes for marketers, startups, e-commerce stores, and agencies\n\nAI-driven insights: Utilize text generator AI and creative insights to identify top-performing creatives\n\nIntegration and collaboration: Integrate with Google, Facebook, ADYOUNEED, and Zapier, and invite up to 25 users to work simultaneously\n\nUse cases for AdCreative.ai span various advertising activities:\n\nEnhance marketing campaigns with AI-generated, conversion-focused creatives\n\nGain insights on creative performance to optimize ad accounts\n\nStreamline collaboration among team members with multi-user access\n\nWith plans ranging from $29/month to $149/month and discounts on yearly plans, AdCreative.ai also offers $500 in free Google Ads credits.",
+    "category": [
+      "copywriting",
+      "social media assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/f4dfd7dc734935e005e6e7cc8e884c99af99cd74-1680x876.png",
+    "subtitle": "Create conversion-focused ads & posts quickly & easily for better results.",
+    "tags": [
+      "copywriting",
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "Fliki",
+    "description": "Fliki is an AI-powered text-to-video and text-to-speech tool designed for efficient content creation. Key features and advantages include:\n\nLife-like voices: Over 900 voices in 75 languages and dialects for realistic voiceovers\n\nVisual and audio resources: Millions of images, video clips, and background music options\n\nBranded subtitles: Customizable colors and fonts for subtitles\n\nTrusted by top companies: Used by 150,000+ content creators from renowned organizations\n\nUse cases for Fliki cater to various content creators:\n\nMarketing professionals seeking to create engaging video content\n\nEducators looking to develop instructional materials with life-like voices\n\nBusinesses aiming to enhance their brand presence with visually appealing videos\n\nOverall, Fliki offers a free and user-friendly solution for content creation, with the option to upgrade as users scale.",
+    "category": [
+      "text to speech",
+      "video generator"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/4dc642d29507d2e460bbcf47a815af9846729b70-1680x876.png",
+    "subtitle": "Create videos from blog posts in 2 mins",
+    "tags": [
+      "text to speech",
+      "video generator"
+    ]
+  },
+  {
+    "title": "Looka",
+    "description": "Looka Logo Maker utilises Artificial Intelligence to help you design a unique custom logo and build a cohesive brand identity. With no design skills required, generate countless logo options and refine them to suit your vision.\n\nKey Features:\n\nAI-powered logo design: Create bespoke logos tailored to your preferences.\n\nCustomisation options: Tweak designs to achieve the perfect logo for your brand.\n\nComprehensive Brand Kit: Develop a consistent brand identity with logo, colours, and fonts.\n\n300+ templates: Select industry-specific templates to match your brand identity.\n\nEasy-to-use editor: Customise marketing materials with an intuitive editor.\n\nUse Cases:\n\n• Design a custom logo for your business with AI assistance.\n\n• Develop a consistent brand identity using Looka's Brand Kit.\n\n• Customise branded marketing materials such as business cards and social profiles.\n\n• Save time and effort with AI-driven graphic design.\n\nExperience the power of AI in crafting a stunning logo and cohesive brand identity with Looka Logo Maker, ensuring your business stands out from the competition from day one.",
+    "category": [
+      "logo generator"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/266b7ff82721aff4031ce5c6ff55f52550acce7a-1665x945.webp",
+    "subtitle": "Create custom logos with Looka Logo Maker and AI.",
+    "tags": [
+      "logo generator"
+    ]
+  },
+  {
+    "title": "MarketingBlocks AI",
+    "description": "All-In-One AI Marketing Assistant that writes, creates & designs all your landing pages, promo videos, ads, marketing copy, graphics, email swipes, voiceovers, blog posts, articles, art & more in minutes.",
+    "category": [
+      "design assistant",
+      "copywriting"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/70e86da240ce81f924b4742f1f4637dbb02e083d-1680x876.png",
+    "subtitle": "AI powered marketing assistant",
+    "tags": [
+      "design assistant",
+      "copywriting"
+    ]
+  },
+  {
+    "title": "MagicForm",
+    "description": "MagicForm is an AI-powered conversational platform designed to boost conversions and engagement with website visitors. Key features and advantages include:\n\nGPT-3 technology: Provides personalized, human-like answers to customer questions\n\nCRM integration: Seamlessly integrates with existing CRMs and leverages company knowledge bases for accurate responses\n\nData collection: Gathers customer data and conversation insights for sales and marketing teams\n\nUse cases for MagicForm cater to various businesses and professionals:\n\nWebsite owners looking to improve visitor engagement and increase conversions\n\nSales and marketing teams seeking valuable customer insights to enhance their strategies\n\nCustomer support aiming to provide personalized and accurate responses to inquiries\n\nOverall, MagicForm offers a unique and powerful solution that can be set up in under 30 minutes, enhancing customer engagement and boosting conversions.",
+    "category": [
+      "low-code/no-code",
+      "sales"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/eb76f1eaa00002c6eec58496cf91d18b51b6e86d-1497x745.jpg",
+    "subtitle": "Train AI salesperson to boost conversions 20% in 3 mins",
+    "tags": [
+      "low-code/no-code",
+      "sales"
+    ]
+  },
+  {
+    "title": "Shuffll",
+    "description": "Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods.\n\nKey Features:\n\nAI-enhanced video production: Streamlined creation process using advanced AI technology.\n\nTime-efficient: Rapid content generation compared to traditional methods.\n\nHigh-quality output: Produce professional-grade, personalized videos.\n\nUser-friendly platform: Easily create and customize video content.\n\nUse Cases:\n\n• Accelerate video production for businesses, saving time and resources.\n\n• Generate personalized video content tailored to specific audiences.\n\n• Create professional, high-quality videos without extensive technical expertise.\n\n• Streamline content creation workflows for marketing and promotional campaigns.\n\nExperience the future of video production with Shuffll, offering rapid, high-quality content creation that enhances your business's visual storytelling capabilities.",
+    "category": [
+      "video editing",
+      "video generator",
+      "personalized videos"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/6e2137617dd50673e3955c0050f103cb27ef4db6-1897x1080.jpg",
+    "subtitle": "AI-powered video production platform for fast, personalized content creation.",
+    "tags": [
+      "video editing",
+      "video generator",
+      "personalized videos"
+    ]
+  },
+  {
+    "title": "Taplio",
+    "description": "With Taplio, users can save countless hours on writing their next LinkedIn post by accessing fresh ideas and content inspiration directly from the platform's advanced AI content inspiration layer.\n\nKey Features:\n\nAI content inspiration: Get fresh ideas and creative prompts for LinkedIn posts.\n\nViral post library: Explore successful posts and learn from their viral elements.\n\nLatest news and trending topics: Stay informed and leverage timely and relevant content.\n\nUse Cases:\n\n• Content creation: Generate engaging LinkedIn posts with the help of AI content inspiration.\n\n• Personal branding: Enhance your personal brand on LinkedIn by consistently creating compelling content.\n\n• Time-saving: Create a month's worth of content in just an hour, maximizing efficiency.\n\nTaplio is a valuable tool for professionals aiming to create more, better LinkedIn content.",
+    "category": [
+      "social media assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/b4d43b50c542c738d20d6b53410245061c8f14da-1547x891.jpg",
+    "subtitle": "Grow your personal brand on LinkedIn",
+    "tags": [
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "Chatbase",
+    "description": "Chatbase is an AI chatbot building platform that allows users to create chatbots trained on their own data. Key features and advantages include:\n\nCustomized chatbots: Train chatbots using uploaded PDF documents or website text scraping\n\nGPT-based chatbots: Understand and answer questions related to the provided data\n\nEasy access: Unique link for accessing the created chatbot\n\nUse cases for Chatbase are ideal for various applications:\n\nCustomer support: Create chatbots to assist customers with information from manuals or websites\n\nFAQs and knowledge bases: Develop chatbots to answer questions based on uploaded documents or web content\n\nAdvanced integrations: Contact the developer for more tailored solutions\n\nOverall, Chatbase offers a user-friendly platform for quickly creating AI chatbots tailored to specific data and requirements.",
+    "category": [
+      "education assistant"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/a5b64b6acb9288d5c9f380f9e0caa3db4e966a30-1867x844.jpg",
+    "subtitle": "Build an AI chatbot trained on your data",
+    "tags": [
+      "education assistant"
+    ]
+  },
+  {
+    "title": "Jasper",
+    "description": "Jasper is an AI-powered copywriter and content generator designed to help teams create high-quality content efficiently. Key features and advantages include:\n\nVersatility: Offers 29+ languages, 20+ templates, and a Chrome extension for seamless integration into workflows\n\nIntelligent writing: Powered by AI, Jasper can write on almost any topic with long-form content generation and a built-in plagiarism checker\n\nSEO integration: Works with Surfer SEO to optimize content for better search engine rankings\n\nUse cases for Jasper cater to various professionals:\n\nMarketers creating persuasive ad copy, video scripts, and LinkedIn articles\n\nContent creators generating blog posts and marketing materials\n\nBusinesses seeking AI-generated images and unique marketing angles\n\nWith a free trial, various plans, and a supportive community, Jasper is trusted by over 100,000 marketers from companies like Digital Marketer, IBM, and Keller Williams.",
+    "category": [
+      "copywriting"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/cfd9366784a7fda98637b46b46d03631667a0839-1680x876.png",
+    "subtitle": "Create content 10x faster with AI-powered copywriting tool",
+    "tags": [
+      "copywriting"
+    ]
+  },
+  {
+    "title": "BrandBastion Lite",
+    "description": "BrandBastion is an AI-powered social engagement platform designed to help businesses manage comments, analyze sentiment, and efficiently respond to messages. Key features and advantages include:\n\nUnified inbox: Access comments from posts, ads, and dynamic ads across multiple platforms in one place\n\nAI-driven comment management: Identify comments that need a response or should be hidden\n\nPowerful filters: Sort comments by sentiment, keywords, campaign, post, platform, etc.\n\nActionable insights: Gain insights from conversations, including sentiment analysis and content resonance\n\nPlatform coverage: Supports Facebook, Instagram, YouTube, Twitter, and TikTok\n\nUse cases for BrandBastion are ideal for businesses looking to improve their social media engagement, collaboration, and overall brand reputation.",
+    "category": [
+      "customer support",
+      "social media assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/55b9b8b58b4193165804fb682870b43d67d85c9d-1887x940.jpg",
+    "subtitle": "Easily monitor and manage all your social media conversations",
+    "tags": [
+      "customer support",
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "GitMind AI",
+    "description": "GitMind is a free collaborative mind-mapping software designed for brainstorming, idea co-creation, and knowledge management, with over 1,053,000 downloads and 11.8M users.\n\nFeatures:\n\nMind maps, flowcharts, organizational charts, UML diagrams, and swimlanes\n\nVisualizes and connects knowledge points, inspiration, and ideas\n\nStimulates creativity and promotes continuous evolution of individual and corporate consciousness\n\nAllows users to create their own metaverse of ideas\n\nUse Cases:\n\nPlanning and management\n\nDecision-making\n\nAccumulating and refining ideas\n\nBuilding a second brain for knowledge growth",
+    "category": [
+      "productivity"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/40916d315555f6a5101f6d9d1800d249c679fa72-2482x1259.jpg",
+    "subtitle": "Boost Your Mind Mapping Speed with GitMind's AI-Powered Tool",
+    "tags": [
+      "productivity"
+    ]
+  },
+  {
+    "title": "AssemblyAI",
+    "description": "Thousands of companies – like Spotify, CallRail, and Writer – use our API to access state-of-the-art AI models to transcribe and understand speech, and build scalable AI-powered products and features faster.\n\nKey features include:\n\nAdvanced AI models: Transcribe and understand audio files, video files, and live audio streams accurately and at scale\n\nVersatile capabilities: Transcribe, summarize, detect hateful content, identify spoken topics, and more\n\nSimple and secure API: Trusted by startups and global enterprises alike\n\nUse cases for AssemblyAI are ideal for various industries:\n\nDevelopers building AI-first products that require speech recognition capabilities\n\nBusinesses seeking to improve call transcription accuracy and customer experience\n\nOrganizations aiming to analyze and understand spoken content for various purposes\n\nOverall, AssemblyAI offers a powerful solution for speech recognition and understanding, with comprehensive support for developers.\n\nTo see AssemblyAI in action, choose your favorite audio or video file and upload it into our no-code playground. Toggle on/off AI models to see all the ways you can quickly and easily capture intelligent insights from audio or video.",
+    "category": [
+      "developer tools",
+      "transcriber"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/871a2f984ab0f03ae98b31dcde771225e29b9252-1920x1080.png",
+    "subtitle": "Transcribe and understand audio with AI models: ASR, NLP, Speech-to-Text.",
+    "tags": [
+      "developer tools",
+      "transcriber"
+    ]
+  },
+  {
+    "title": "GPTGO",
+    "description": "GPTGO revolutionizes the search experience by seamlessly integrating ChatGPT into Google search results for free.\n\nKey Features:\n\nChatGPT integration: Enhance your search experience with the power of ChatGPT.\n\nFree to use: Enjoy the benefits of GPTGO at no cost.\n\nMultilingual support: Available in all major languages, making it accessible to a global audience.\n\nUser-friendly: Experience a more streamlined and efficient search process.\n\nUse Cases:\n\n• Internet users who want to improve their search experience with the power of AI.\n\n• Researchers and professionals seeking more efficient ways to find information online.\n\n• Individuals who require quick and accurate search results for various purposes.\n\nGive GPTGO a try and revolutionize your search experience with the seamless integration of ChatGPT, delivering faster and more accurate results to meet your needs.",
+    "category": [
+      "life assistant",
+      "search engine"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/f9737e495ff638c3662cd241f74352d6e78fee85-2207x1227.jpg",
+    "subtitle": "ChatGPT combined with Google search",
+    "tags": [
+      "life assistant",
+      "search engine"
+    ]
+  },
+  {
+    "title": "Imgcreator",
+    "description": "ImgCreator.AI is an AI-powered generator and designer, for AI anime, AI photo, background generation and even room design.\n\nKey features and advantages include:\n\nGenerate hyper realistic background for anything\n\nAI Design your room to any style in seconds\n\nTurn your photo to anime character\n\nUse AI Studio to generate couple photos of any two random people\n\nCreate design and edit images in AI Designer\n\nGenerate anime character in certain pose using text\n\nUse cases for ImgCreator.AI cater to various creative needs:\n\nDesigners and artists seeking a tool to generate illustrations or concept designs\n\nContent creators in need of unique images for their projects\n\nBusinesses looking to create custom visuals for marketing materials\n\nOverall, ImgCreator.AI offers endless possibilities for image creation, limited only by the user's imagination.",
+    "category": [
+      "e-commerce"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/fee342a09340ce04b491cb8f2444c66c2831e997-1918x935.jpg",
+    "subtitle": "Best AI Anime Generator and Photo Background Generator.",
+    "tags": [
+      "e-commerce"
+    ]
+  },
+  {
+    "title": "Luna Ai",
+    "description": "Luna AI helps in creating hooks/posts that are super engaging and scheduling them to grow your personal brand.\n\nEnter your topic\n\nGet hook ideas\n\nAnd Save hours on content writing ideas.\n\n",
+    "category": [
+      "social media assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/59517d8034615b89b139084137371ed4b2c79ded-1920x894.png",
+    "subtitle": "Create better Linkedin content 10x Faster with Ai",
+    "tags": [
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "STORYD",
+    "description": "STORYD is a tool that helps users create AI-powered data presentations that are engaging and impactful. It enables users to quickly create presentations that will capture the attention of leaders, helping them get recognized for their hard work.\n\nKey Features:\n\nAI Data Storytelling\n\n3 Easy Steps to Create a Presentation\n\n10x Your Productivity with Story Starters, AI Script Generator, and Professional Slides\n\nUse Cases:\n\nQuickly create professional data presentations\n\nImprove storytelling and communication with data\n\nCollaborate with teams on presentations\n\nGenerate ideas using AI-powered scripts and story starters\n\nCustomize and export presentations to PowerPoint",
+    "category": [
+      "story teller",
+      "presentations"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/981a3cd0beae3db5d9281931c5d79b81ab5cfce3-3300x1856.png",
+    "subtitle": "A tool for data presentations",
+    "tags": [
+      "story teller",
+      "presentations"
+    ]
+  },
+  {
+    "title": "Magical",
+    "description": "Magical is an AI-powered tool that transforms calendar invitations into a collaborative workspace for managing meetings. Key features and advantages include:\n\n️ Automated Meeting Summaries: Automatically record, summarize, and write your meeting notes in 32 languages. Magical AI Notetaker integrates with Zoom, Google Meet, and Microsoft Teams and automatically takes meeting notes and action items for you so you can stay focused on the meeting.\n\nChatGPT Meeting Assistant: automatically generate agendas tailored to your meeting's topics and goals using ChatGPT.\n\nSeamless sync with Notion: Intelligently organize all your meetings notes directly into one centralized, searchable hub in Notion.\n\nAI-powered scheduling links: Magical's AI Assistant suggests the best meeting times for both you and your guests.\n\nFly through your schedule: access your calendar and meeting notes on any website with ⌘+E\n\nUse cases for Magical cater to various professionals:\n\nBusy professionals seeking a streamlined solution for managing meetings and agendas\n\nTeam leads aiming to improve meeting coordination and efficiency\n\nIndividuals looking to simplify their scheduling process and regain control over their time\n\nTop 10 Productivity Products of 2023 by Product Hunt.\nCelebrated as the #1 Product of the Day on Product Hunt, Magical has also earned a spot among their Top 10 Productivity Products of 2023.\n\nMagical has a 5-Star rating on the Chrome Web Store.\n\nExperience the future of time-management with the fastest and easiest calendaring experience.",
+    "category": [
+      "summarizer",
+      "productivity"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/30f31232304991e1725d551337a501ec7736c51b-1802x1241.png",
+    "subtitle": "Magical is the first GPT-powered calendar that takes meeting notes for you.",
+    "tags": [
+      "summarizer",
+      "productivity"
+    ]
+  },
+  {
+    "title": "Roast Dating",
+    "description": "Roast Dating is a platform designed to significantly increase your matches on dating apps like Tinder, Bumble, and Hinge. By providing real feedback, optimizing your profile, and assisting you in selecting the best photos, Roast Dating ensures you stand out in the dating app crowd.\n\nKey Features:\n\nProfile optimization: Enhance your dating app profile to attract more matches.\n\nPhoto selection assistance: Find the best pictures to showcase your personality and appeal.\n\nReal feedback: Receive genuine feedback to help improve your dating app success.\n\nData-driven insights: Benefit from data analysis for more effective dating strategies.\n\nExpert advice: Access professional guidance to boost your dating app experience.\n\nUse Cases:\n\n• Improve your dating app profile to attract more potential matches.\n\n• Determine the best photos to use, ensuring a strong first impression.\n\n• Gain valuable feedback on your profile to refine your dating app approach.\n\n• Leverage data-driven insights and expert advice for better match results.\n\n• Enhance your overall dating app experience with optimized profile elements.\n\nUpgrade your dating app game with Roast an AI-driven platform that optimizes your profile, provides real feedback, and helps you choose the best photos, ultimately increasing the quantity and quality of your matches.",
+    "category": [
+      "dating"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/6f61fe80fa565a6d240197335ac4d4897fcd8e78-2940x1682.png",
+    "subtitle": "Use AI to optimize your dating profile, and get up to 10X more matches",
+    "tags": [
+      "dating"
+    ]
+  },
+  {
+    "title": "Superflows",
+    "description": "Superflows is an AI email assistant that helps you get through your inbox faster with AI generated 1-click replies, customised to your workflows and tone of voice. For each email, Superflows prepares several intelligently generated reply options, ready to go in a single click. You can personalise the options with calendar links and other information, so you never have to copy-and-paste into an email again.",
+    "category": [
+      "email assistant"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/7b27a562abd7bd8823f54d3ed8bc75eda73a15e8-1802x888.jpg",
+    "subtitle": "AI email assistant that helps you get through your inbox faster",
+    "tags": [
+      "email assistant"
+    ]
+  },
+  {
+    "title": "StockImg AI",
+    "description": "Stockimg.AI is an AI-driven image generation tool that simplifies the creation of logos, book covers, posters, and other designs.\n\nKey Features:\n\nWide range of design categories: Access an extensive selection of categories for diverse design projects.\n\nUser-friendly interface: Generate images quickly and easily with a simple-to-use platform.\n\nFree trial and AI-made images section: Explore the capabilities of Stockimg.AI with a free trial and preview AI-generated images.\n\nSocial media presence: Stay updated on Stockimg.AI's latest news and get support through Twitter, Instagram, and TikTok.\n\nUse Cases:\n\n• Create eye-catching logos for branding and marketing purposes.\n\n• Design engaging book covers to attract readers.\n\n• Generate visually appealing posters for events or promotions.\n\n• Craft unique wallpapers, illustrations, and icons for digital and print projects.\n\n• Develop web and mobile UI designs with AI-generated imagery.\n\nDiscover the versatility and efficiency of Stockimg.AI, an AI-powered design tool that helps you create stunning logos, book covers, posters, and more in just seconds, catering to a wide range of design needs.",
+    "category": [
+      "image generator",
+      "design assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/d26dece586aba0c6f60615312bc35894b08d1ba9-1863x913.jpg",
+    "subtitle": "AI-powered design service for logos, images, posters, book covers, and more.",
+    "tags": [
+      "image generator",
+      "design assistant"
+    ]
+  },
+  {
+    "title": "Audyo",
+    "description": "Audyo is an AI-powered tool designed to create and edit human-like voices by typing. Key features and advantages include:\n\nEasy audio creation: Generate high-quality audio content by simply editing words, rather than manipulating waveform data\n\nCustomization: Switch speakers and tweak pronunciations using phonetics for greater control over the resulting audio\n\nConvenience: Access Audyo through sign-in with Google for a seamless user experience\n\nUse cases for Audyo are ideal for various content creators:\n\nPodcasters seeking to incorporate high-quality audio without advanced editing skills\n\nVideo producers looking to add voiceovers or narration with minimal effort\n\nMarketers aiming to create engaging audio content for promotional purposes\n\nOverall, Audyo offers a streamlined solution for generating high-quality audio content without the need for extensive audio editing expertise.",
+    "category": [
+      "audio editing",
+      "text to speech"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/b6604a2d9dc6fb36c5bc7590308e262c5ecc5065-1917x848.png",
+    "subtitle": "Create audio like writing a doc",
+    "tags": [
+      "audio editing",
+      "text to speech"
+    ]
+  },
+  {
+    "title": "Durable",
+    "description": "Durable AI is an AI-powered website builder designed to help entrepreneurs effortlessly create professional websites. Key features and advantages include:\n\nRapid site creation: Generate a website in just 30 seconds with AI-generated features\n\nCustomization: Edit and enhance websites with logos, photos, custom objects, and more\n\nAll-in-one platform: CRM tools, invoicing, promotional content creation, and more\n\nUse cases for Durable AI involve various website-related activities:\n\nQuickly create professional websites for businesses and entrepreneurs\n\nStreamline website management with a unified platform for multiple tasks\n\nFacilitate the process of launching a business online\n\nWith a 30-day free trial and plans starting at $15 per month, Durable AI is a trusted solution recommended by various reputable sources.",
+    "category": [
+      "finance",
+      "low-code/no-code",
+      "startup tools"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/51fde55567afcd81d357e7ee63e3777a46b0ed81-1680x876.png",
+    "subtitle": "Create a website, automate marketing & manage finances in 30 secs",
+    "tags": [
+      "finance",
+      "low-code/no-code",
+      "startup tools"
+    ]
+  },
+  {
+    "title": "Voxwave AI",
+    "description": "Convert ice-cold leads into blazing-hot buyers. Use dynamic tags like {name} and {company} to send hundreds of personalized voice emails to pre-warmed leads. Or send a static voice message to 100k+ cold leads. At whatever stage your lead is at Voxwave gets you more calls booked and more sales.",
+    "category": [
+      "text to speech",
+      "email assistant"
+    ],
+    "payment": "contact for pricing",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/6f27e213002c60ee7478be59b82884b1e626c25b-1424x866.png",
+    "subtitle": "AI-personalized lead gen. Puts your voice into your emails. Works with any mailer.",
+    "tags": [
+      "text to speech",
+      "email assistant"
+    ]
+  },
+  {
+    "title": "Piggy Magic",
+    "description": "Piggy Magic is an AI-powered social story maker that transforms your words into visually appealing videos and images for sharing on social media platforms like Instagram, TikTok, Facebook, Snapchat, and more. Transform your words into amazing social stories worth sharing. Just enter a short text, see the results, download as a video and images, and share on Instagram, TikTok, Facebook, Snap, or wherever.\n\nKey Features:\n\nSocial Story Maker: Transform short text into visually appealing videos and images for sharing on social media platforms.\n\nAI Quiz Maker: Generate visually appealing quizzes consisting of 7-10 questions, perfectly optimized for mobile devices.\n\nEasy Content Sharing: Download the generated content and share it on popular social media platforms like Instagram, TikTok, Facebook, Snapchat, and more.\n\nEngaging Visuals: Capture attention and drive engagement with visually captivating stories and quizzes.\n\nEffortless Content Creation: Save time and effort with AI-powered tools that automate the process of creating social stories and quizzes.\n\nUse Cases:\n\nContent creators and influencers looking to create visually appealing social stories for their audience.\n\nIndividuals seeking an easy and fun way to share quotes, anecdotes, or messages on social media.\n\nBusinesses and brands aiming to enhance their social media presence and engage with their audience through captivating content.\n\nSocial media managers looking for tools to streamline the process of content creation and maximize engagement.\n\nTrivia enthusiasts and educators interested in creating interactive quizzes to test knowledge or engage learners.\n\nPiggy Magic - Social Story Maker and Piggy Quiz Maker empower users to create captivating visual content and engaging quizzes effortlessly.",
+    "category": [
+      "social media assistant",
+      "fun tools"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/c307ea8005329935662ee3ae56069d9ff7635387-2400x1352.png",
+    "subtitle": "Piggy Magic - Social Story Maker",
+    "tags": [
+      "social media assistant",
+      "fun tools"
+    ]
+  },
+  {
+    "title": "AI Studios",
+    "description": "AI Studios is a platform by Deepbrain AI that enables users to create realistic AI videos effortlessly. Key features and advantages include:\n\nText-to-speech and AI avatar: Transform scripts into videos using advanced AI technology\n\nEase of use: Beginner-friendly with customizable AI avatars and language settings\n\nOne-click subtitle generation: Add subtitles to videos with ease\n\nStarter templates: Simplify video creation with a variety of templates\n\nUse cases for AI Studios cater to various video creation needs:\n\nBusinesses creating feature explanation videos, company introductions, and webinars\n\nAdvertisers crafting billboard advertisements and promotional content\n\nIndividuals looking for a quick and easy way to produce AI-generated videos\n\nAwarded the CES Innovation Awards and used by celebrities, AI Studios is an ideal tool for anyone seeking to create AI videos efficiently.",
+    "category": [
+      "video generator"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/ae674d904ad10cb7faf40f67d83c36a440bf08fd-1270x760.jpg",
+    "subtitle": "Create AI-generated videos using basic text instantly",
+    "tags": [
+      "video generator"
+    ]
+  },
+  {
+    "title": "Stable Diffusion",
+    "description": "Stable Diffusion excels in creating detailed images based on text descriptions and can be applied to various tasks, including inpainting, outpainting, and text-guided image-to-image translations.\n\nKey Features:\n\nText-to-image generation: Create detailed images based on text descriptions.\n\nInpainting and outpainting capabilities: Enhance and extend images with AI assistance.\n\nText-guided image-to-image translations: Transform images according to text prompts.\n\nUse Cases:\n\n• Generate custom visuals for marketing campaigns based on text descriptions.\n\n• Restore or expand images with inpainting and out-painting features.\n\n• Create unique image-to-image translations guided by textual prompts.\n\nLeverage the capabilities of Stable Diffusion for a wide range of applications, from marketing visuals to image enhancement and transformation, ensuring high-quality results driven by cutting-edge deep learning technology.",
+    "category": [
+      "image generator",
+      "developer tools"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/1b125922694c3b880bb317d62e364edc463fa9cf-1342x776.jpg",
+    "subtitle": "Deep learning text-to-image model ",
+    "tags": [
+      "image generator",
+      "developer tools"
+    ]
+  },
+  {
+    "title": "Midjourney",
+    "description": "Midjourney is an independent research lab dedicated to advancing human imaginative powers through AI and design. Key features and advantages include:\n\nExpert team: Comprised of experienced staff, advisors, and researchers from various prestigious organizations\n\nMultidisciplinary focus: Emphasis on design, human infrastructure, and AI to enable exploration of new thought mediums\n\nCreative projects: A diverse portfolio ranging from realistic cityscapes to abstract art, and virtual reality experiences\n\nUse cases for Midjourney involve various creative fields:\n\nArtists and designers seeking inspiration from AI-generated works\n\nResearchers exploring the intersection of AI, design, and human imagination\n\nInnovators looking to push the boundaries of what is possible with AI tools\n\nOverall, Midjourney offers a unique platform for harnessing AI technology to create powerful, imaginative works that inspire and captivate.",
+    "category": [
+      "art"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/afda32dcc5d187ec74c83b1a1480a99e591bde0f-1196x681.jpg",
+    "subtitle": "AI lab exploring new mediums to expand human imagination.",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "title": "REimagine Home",
+    "description": "REimagineHome is an AI-powered interior design tool offering personalized design concepts and inspiration. Key features and advantages include:\n\nGenerative AI: Generates design ideas in seconds, eliminating manual design processes\n\nVersatile application: Virtually stage empty rooms, redesign furnished spaces, and outdoor patios\n\nPersonalization: Considers architectural elements, furniture, color preferences, and text instructions\n\nUse cases for REimagineHome are ideal for various individuals:\n\nHomeowners seeking to transform their living spaces with unique design concepts\n\nInterior designers looking for AI-powered inspiration and quick design generation\n\nReal estate professionals aiming to virtually stage properties for enhanced presentation\n\nOverall, REimagineHome offers a quick and easy solution for creating beautiful and personalized living spaces using AI-powered design.",
+    "category": [
+      "real estate"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/40a412e338a934d03f027bb2a6965f967cc01816-1716x821.jpg",
+    "subtitle": "Generative AI to redesign any room in seconds",
+    "tags": [
+      "real estate"
+    ]
+  },
+  {
+    "title": "GPT3 Playground",
+    "description": "Enter an instruction or select a preset, and watch the API respond with a completion that attempts to match the context or pattern you provided. You can control which model completes your request by changing the model.",
+    "category": [
+      "general writing",
+      "productivity"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/07088feeaaadb9261ff821d59aed40b1fe16acf2-1898x961.jpg",
+    "subtitle": "OpenAI's GPT3 Playground",
+    "tags": [
+      "general writing",
+      "productivity"
+    ]
+  },
+  {
+    "title": "ChatGPT",
+    "description": "ChatGPT is an AI-powered conversational interface that leverages OpenAI technology to understand and process natural language input. Key features and advantages include:\n\nNatural language processing: Understands and processes speech and text for meaningful interactions\n\nAdaptive learning: Learns from user input to provide accurate and relevant responses\n\nVersatile applications: Suitable for customer service, virtual agents, and automated chatbots\n\nUse cases for ChatGPT cater to various industries and professionals:\n\nCustomer support teams seeking to automate responses and improve customer interactions\n\nBusinesses looking to implement virtual agents for efficient communication\n\nDevelopers aiming to create AI-powered chatbots for various applications\n\nOverall, ChatGPT offers a powerful conversational AI system that understands and responds to user needs across a wide range of applications.",
+    "category": [
+      "productivity",
+      "search engine"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/cb14850c361821a3f5d89231709be3a11205e1d7-1347x911.jpg",
+    "subtitle": "ChatGPT optimizes language models for dialogue",
+    "tags": [
+      "productivity",
+      "search engine"
+    ]
+  },
+  {
+    "title": "Mubert",
+    "description": "Mubert is an innovative AI-powered royalty-free music ecosystem designed for content creators, brands, and developers. Key features and advantages include:\n\nAI-generated music: Instantly create high-quality music for streaming, videos, podcasts, and commercial use\n\nMubert Render: Allows content creators to generate soundtracks tailored to their content's mood, duration, and tempo\n\nMubert Studio: Offers artists a platform to earn money on tracks, samples, and loops\n\nMubert API: Provides developers and brands with royalty-free music for their products and platforms\n\nMubert Play: Customizes music experiences for various occasions and individual moments\n\nUse cases for Mubert are ideal for various professionals and industries:\n\nContent creators seeking tailored soundtracks for their videos and podcasts\n\nBrands and developers looking for royalty-free music for their products or platforms\n\nArtists aiming to monetize their tracks, samples, and loops\n\nOverall, Mubert revolutionizes the way people create and interact with music, catering to a wide range of needs and applications.",
+    "category": [
+      "text to speech"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/dfb853f3ef5ad7235361c389fcb8e5d4f6d2a270-1920x1080.png",
+    "subtitle": "Royalty-free music ecosystem for content creators, brands & developers.",
+    "tags": [
+      "text to speech"
+    ]
+  },
+  {
+    "title": "HoppyCopy",
+    "description": "Hoppy Copy is an AI-based email marketing copywriting platform designed to save time and increase conversions. Key features and advantages include:\n\nAI Copywriter: Generates powerful copy for email campaigns and other marketing content\n\nAI Copy Editor: Tweaks and rewords content for optimal results\n\nCompetitor Monitoring: Keeps track of competitors' strategies\n\nSpam Checker: Increases open rates by ensuring emails avoid spam filters\n\nContent Converter: Repurposes content from any source\n\nUse cases for Hoppy Copy are ideal for various professionals:\n\nMarketers seeking to create effective email campaigns and ads\n\nContent creators looking to save time and generate powerful copy\n\nBusinesses aiming to increase conversions and stay ahead of competitors\n\nOverall, Hoppy Copy offers a comprehensive solution for creating high-converting email marketing copy and other content types, accessible on any device with a 7-day free trial.",
+    "category": [
+      "email assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/54634a637e050e329af5bd813409247a6312b0da-1765x934.jpg",
+    "subtitle": "Create high-converting emails quickly with AI-generated copy.",
+    "tags": [
+      "email assistant"
+    ]
+  },
+  {
+    "title": "Synthesia",
+    "description": "Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.",
+    "category": [
+      "video generator"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/d7cbfc8f4ba1e34bf1acb49bd8aa47bc9901eaa8-1680x876.png",
+    "subtitle": "Create AI videos from text. Easy, cheap, scalable. Human presenters. Free demo.",
+    "tags": [
+      "video generator"
+    ]
+  },
+  {
+    "title": "Predict AI",
+    "description": "Neurons' Predict is a powerful AI solution designed to simulate consumer attention on visual assets, such as images and videos. Key features and advantages include:\n\nPredictive AI: Measure attention and engagement, optimizing creatives for maximum performance\n\nTrusted by major brands: Increase conversions, improve creative performance, and boost brand awareness\n\nData-driven design: Maximize creative impact and ensure desired results with AI-driven insights\n\nIntegration: Seamlessly works with popular tools like Figma, Chrome, and Adobe XD\n\nUse cases for Neurons' Predict are ideal for various businesses:\n\nMarketing teams seeking to increase CTR, engagement, and conversions\n\nDesigners aiming to optimize visuals with data-driven insights\n\nCompanies looking to pre-test creatives and compare them to industry benchmarks\n\nOverall, Neurons' Predict offers a cutting-edge solution for optimizing visuals and maximizing creative impact, backed by years of applied neuroscience experience.",
+    "category": [
+      "design assistant",
+      "social media assistant"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/07ee9dc39c780f88381b223e632b7c7d35f38684-1722x886.jpg",
+    "subtitle": "Predicts customer responses on creative assets",
+    "tags": [
+      "design assistant",
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "Rytr",
+    "description": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!",
+    "category": [
+      "copywriting",
+      "email assistant"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/5df73d823e03e45fd069394c3dd39ee53731c74c-1680x876.png",
+    "subtitle": "AI writing assistant for fast, affordable, high-quality content.",
+    "tags": [
+      "copywriting",
+      "email assistant"
+    ]
+  },
+  {
+    "title": "Yaara",
+    "description": "Yaara AI will help you generate creative content from a given prompt with improved grammer and flow of existing content. It will help summarize long documents into shorter pieces. Write long-form pieces such as articles, blog posts, or even books.",
+    "category": [
+      "copywriting"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/c44cc25cc3eb4dc6b4c1a1f43d853e98c8f20704-1920x977.png",
+    "subtitle": "Generate creative content from a given prompt",
+    "tags": [
+      "copywriting"
+    ]
+  },
+  {
+    "title": "Dream Interpreter",
+    "description": "Dream Interpreter AI is an AI-powered tool designed to help users interpret the meaning behind their dreams. Key features and advantages include:\n\nAI-driven analysis: Analyzes patterns and symbols in dreams to provide insights into the subconscious mind\n\nDreamer Map: Allows users to share dreams with the community and receive feedback from others\n\nFree to use: Accessible to users at no cost, with agreement to Terms of Service and Privacy Policy\n\nUse cases for Dream Interpreter AI are ideal for various individuals:\n\nCurious dreamers seeking to understand the meaning behind their dreams\n\nPersonal growth enthusiasts looking to gain insights from their subconscious mind\n\nCommunity-driven users interested in sharing and discussing dreams with others\n\nOverall, Dream Interpreter AI offers a unique and insightful tool for understanding and navigating one's life through dream analysis.",
+    "category": [
+      "life assistant",
+      "fun tools"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/40dd8a7614b9f323a0697b9d6302bc415a3e59c7-1686x944.jpg",
+    "subtitle": "Dream interpreter using GPT-3",
+    "tags": [
+      "life assistant",
+      "fun tools"
+    ]
+  },
+  {
+    "title": "Magic Studio",
+    "description": "Magic Eraser is an AI tool that simplifies the process of removing unwanted elements from images in a matter of seconds. With a user-friendly three-step process – upload, mark the area you want to remove, and download – you can effortlessly enhance your images for a professional look.\n\nKey Features:\n\nEasy-to-use interface: Quickly remove unwanted elements from your images.\n\nSupports JPEG and PNG formats: Use Magic Eraser for a variety of image formats.\n\nMultiple use cases: Ideal for real estate photography, fashion, and social media.\n\nMagic Studio API: Add Magic Eraser features to your own applications.\n\nFree to use: No signup required and offers a variety of pricing plans for additional features.\n\nUse Cases:\n\n• Real estate photographers: Remove unwanted objects or imperfections from property images.\n\n• Fashion photographers: Edit out blemishes or distractions in fashion photography.\n\n• Social media managers: Enhance and polish images for social media posts.\n\n• Graphic designers: Quickly clean up and improve image quality for design projects.\n\nMagic Eraser offers a quick and easy solution to make your images look professional and polished, giving you the edge you need in today's visually driven world.",
+    "category": [
+      "image editing"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/fc97228fcf4214aed2d00b8e62e0bb3e26ed008a-1200x628.jpg",
+    "subtitle": "Create stunning visuals in seconds",
+    "tags": [
+      "image editing"
+    ]
+  },
+  {
+    "title": "Namelix",
+    "description": "Namelix is an AI-powered business name generator designed to create unique, brandable names for businesses. Key features and advantages include:\n\nAI-driven name generation: Generates short, catchy names relevant to users' business ideas\n\nPersonalized recommendations: Learns from user preferences and offers improved suggestions over time\n\nLogo creation: Integrates with Brandmark.io to provide AI-powered logo design services\n\nUse cases for Namelix are ideal for various individuals:\n\nEntrepreneurs seeking a memorable and unique name for their new business\n\nMarketers looking to rebrand or launch new products with catchy names\n\nBusiness owners in need of a professional logo design for their brand\n\nOverall, Namelix offers an invaluable solution for creating distinctive names and logos, helping businesses stand out in the market.",
+    "category": [
+      "startup tools"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/99cbb3e167cb830687856dd9fa2dc1ae7f2a6a1a-1665x945.webp",
+    "subtitle": "Generate short, brandable business names & domain names.",
+    "tags": [
+      "startup tools"
+    ]
+  },
+  {
+    "title": "Copy.ai",
+    "description": "Copy.ai is an AI-powered content generator that helps you create high-quality content for various use cases, including:\n\nBlog Writers: Write blogs 10x faster\n\nSocial Media Managers: Write higher converting posts\n\nEmail Marketers: Write more engaging emails\n\nFeatures:\n\nOver 90 tools and templates\n\nWrite in 29+ languages\n\n7,000,000+ professionals and teams using the platform\n\nFree account with 2,000 free words per month\n\nUse Cases:\n\nBlog Content\n\nSales Copy\n\nDigital Ad Copy\n\nSocial Media Content\n\neCommerce Copy\n\nWebsite Copy\n\n\n\nTestimonials:\n\nUsers praise the platform for its ease of use, time-saving capabilities, and high-quality content generation.\n\nThe \"First Draft Wizard\" and Freestyle tool are highlighted as game-changers in content creation.\n\nHow it works:\n\nEnter your copywriting project (emails, social posts, long-form blog posts, etc.)\n\nGive Copy.ai a bit of context about your brand and products.\n\nSift through the AI-generated results.\n\nEdit, polish, and publish the content using Copy.ai's editor.",
+    "category": [
+      "copywriting"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/a57107051aee68eaae125e33ba35c8c34df61c65-1680x876.png",
+    "subtitle": "AI-powered copywriter for marketing: get started free, no credit card needed!",
+    "tags": [
+      "copywriting"
+    ]
+  },
+  {
+    "title": "Profile Picture AI",
+    "description": "ProfilePicture.AI is an AI-powered tool for creating custom profile pictures that reflect users' identity and personality. Key features and advantages include:\n\nWide range of styles and characters: Over 311 styles to choose from, catering to various preferences\n\nHigh-quality output: Generates 4K format (4096x4096) and 300 dpi images, suitable for printing\n\nPrivacy-focused: Founded in Holland, the tool respects user privacy\n\nUse cases for ProfilePicture.AI cater to various individuals:\n\nSocial media users seeking personalized profile pictures that capture their personality\n\nGamers looking for unique avatars for their gaming profiles\n\nDesigners and artists in need of inspiration or character concepts for their projects\n\nOverall, ProfilePicture.AI offers a powerful and versatile solution for creating custom profile pictures that truly represent users' identity and preferences.",
+    "category": [
+      "avatars"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/59dcd09473d07eddbff3628ff37cf655205a1eaa-1863x939.jpg",
+    "subtitle": "Create perfect profile pic with AI - be anything, anywhere, anyone!",
+    "tags": [
+      "avatars"
+    ]
+  },
+  {
+    "title": "Writesonic",
+    "description": "Writesonic is a unique AI-based tool that lets you create SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify with ease. With the added benefit of a paraphrasing tool that lets you rephrase entire articles instantly, this tool is a must-have for content creators looking to streamline their workflow.\n\nKey Features:\n\nInnovative AI writer: Create unique and engaging content for various platforms, including blogs, Facebook ads, Google ads, and Shopify.\n\nParaphrasing tool: Use the paraphrasing tool to rephrase entire articles instantly, saving time and effort.\n\nFree to use: Access Writesonic's features and resources for free, making it accessible to all.\n\nUse Cases:\n\n• Create high-quality content quickly and easily, saving time and effort.\n\n• Improve SEO rankings and increase website traffic with SEO-friendly content.\n\n• Create engaging Facebook and Google ads that convert more customers.\n\n• Streamline your Shopify store by creating product descriptions and other content with ease.\n\n• Use the paraphrasing tool to save time and avoid plagiarism.\n\nWith Writesonic, you can easily create high-quality content for various platforms and streamline your workflow. The added benefit of the paraphrasing tool makes it an essential tool for content creators looking to save time and effort while avoiding plagiarism.",
+    "category": [
+      "SEO",
+      "copywriting"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/be837214bd8c2249f9c5ba8e9bb5c7c9cc158bf4-1680x876.png",
+    "subtitle": "Create SEO-friendly content with AI for blogs, websites, and articles.",
+    "tags": [
+      "SEO",
+      "copywriting"
+    ]
+  },
+  {
+    "title": "Easy-Peasy.AI",
+    "description": "Easy-Peasy.AI is an AI-powered content assistant designed to streamline content creation for you and your team. Key features and advantages include:\n\nAI copywriting templates: Over 80 templates to craft engaging and professional copy\n\nAI images: Generate stunning visuals with ease\n\nAI transcription: Quickly and accurately transcribe audio content\n\nAI buddy, Marky: Receive assistance from an AI buddy through natural language conversation\n\nUse cases for Easy-Peasy.AI cater to various content creation needs:\n\nContent creators looking to save time and effort while producing high-quality content\n\nMarketing teams aiming to generate engaging copy and visuals with just a few clicks\n\nBusinesses and organizations seeking to enhance their content strategy using AI technology",
+    "category": [
+      "copywriting",
+      "art",
+      "transcriber"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/27cd9553c6ce19c7d2f8998d27bced3a793983c2-1890x944.jpg",
+    "subtitle": "AI copywriting tools to help you tell your story in the most engaging way.",
+    "tags": [
+      "copywriting",
+      "art",
+      "transcriber"
+    ]
+  },
+  {
+    "title": "Notion AI",
+    "description": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment creativity. Like magic!",
+    "category": [
+      "general writing",
+      "productivity"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/d7830be6707955cca3b832b34098a8108a988748-1847x941.jpg",
+    "subtitle": "Unlock AI-powered magic in Notion to write faster and think bigger.",
+    "tags": [
+      "general writing",
+      "productivity"
+    ]
+  },
+  {
+    "title": "Munch",
+    "description": "Munch is a content repurposing AI tool designed to create, repurpose, and analyze content across multiple platforms. Key features and advantages include:\n\nGenerative AI: Extracts engaging, trending, and impactful clips from long-form videos\n\nAI-driven Video Editor: Offers intuitive editing, auto-caption generation, aspect ratio smart-cropping, and more\n\nAuto social post generation: Tailored for TikTok, Instagram, Twitter, LinkedIn, and YouTube Shorts\n\nCoherent clip extraction: Ensures seamless integration of repurposed content\n\nUse cases for Munch cater to various professionals:\n\nBrands and marketers: Maintain relevance in the ever-changing content marketing landscape\n\nSocial media managers: Efficiently spread clients' messages across multiple social media platforms\n\nMedia agencies: Engage target audiences with repurposed content for increased visibility\n\nOverall, Munch is trusted by over 40K brands and professionals, offering a comprehensive solution for content repurposing and engagement.",
+    "category": [
+      "video editing",
+      "social media assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/15740143e29db461fedf87542ef0c3b161f2bdad-1720x952.jpg",
+    "subtitle": "Create short clips from long-form videos to maximize social media exposure",
+    "tags": [
+      "video editing",
+      "social media assistant"
+    ]
+  },
+  {
+    "title": "Codeium",
+    "description": "Codeium is an AI-powered code completion tool designed to streamline the coding process. Key features and advantages include:\n\nIDE integration: Supports over 20+ languages and integrates with popular IDEs\n\nEfficient coding: Reduces boilerplate coding, finds and uses APIs, and generates unit tests\n\nNatural language processing: Allows developers to type comments in natural language for code completion\n\nTrusted by top companies: Used by Adobe, Dropbox, IBM, Pinterest, Salesforce, and Tesla\n\nFree to use: Install the Codeium Extension for unlimited access\n\nUse cases for Codeium are ideal for various developers:\n\nSoftware developers seeking to improve coding efficiency and reduce time spent on syntax\n\nTeams working on large or unfamiliar codebases, aiming for faster adaptation\n\nCompanies looking to enhance their development process with AI-powered tools",
+    "category": [
+      "code assistant"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/22744355a279725f3f65834096ff898b48bdd116-1851x905.jpg",
+    "subtitle": "AI-powered code acceleration toolkit to code smarter, not harder.",
+    "tags": [
+      "code assistant"
+    ]
+  },
+  {
+    "title": "Tome",
+    "description": "The future of generative storytelling is here. Unlock your best work with Tome's AI-powered storytelling format.",
+    "category": [
+      "story teller",
+      "presentations",
+      "startup tools"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/0dff96a9e4930b642880c63ec0af99f74059c96b-1777x881.jpg",
+    "subtitle": "Unlock your best work with AI-powered generative storytelling from Tome.",
+    "tags": [
+      "story teller",
+      "presentations",
+      "startup tools"
+    ]
+  },
+  {
+    "title": "Papercup",
+    "description": "Papercup is an AI-powered dubbing and video translation software that enables users to localize their videos with human-sounding voiceovers. Key features and advantages include:\n\nAI-driven voiceover: Transcribes, translates, and creates human-sounding voiceovers quickly and cost-effectively\n\nQuality assurance: A team of QAs ensures the quality of the voiceover and makes necessary adjustments\n\nIndustry-specific solutions: Tailored for media companies, enterprises, e-learning, content creators, and more\n\nAdd-on services: Offers distribution, captions and subtitles, and broadcast-quality editing\n\nUse cases for Papercup are ideal for various industries:\n\nMedia companies looking to localize their content for global audiences\n\nE-learning platforms aiming to make their courses accessible in multiple languages\n\nContent creators seeking to expand their reach with translated videos\n\nOverall, Papercup offers a powerful solution for video translation and localization, ensuring high-quality voiceovers and a range of additional services.",
+    "category": [
+      "video editing"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/8d872bc148b698554f72d38bc3c2f7e4f0098217-1757x883.jpg",
+    "subtitle": "Automate dubbing with AI in multiple languages",
+    "tags": [
+      "video editing"
+    ]
+  },
+  {
+    "title": "LongShot",
+    "description": "LongShot is an AI writing assistant designed to help you and your team craft compelling blog content that ranks well on search engines. Say goodbye to the struggle of finding fresh content ideas and staying on top of trends, as LongShot FactGPT provides user-sourced content on a variety of topics.\n\nKey Features:\n\nAI-driven content generation: Effortlessly create captivating content with AI assistance.\n\nWide range of topics: Access content ideas on current events, entertainment, gadgets, and more.\n\nTime-saving: Focus on other aspects of your business while LongShot handles content generation.\n\nSEO-friendly: Craft blogs that both humans and search engines love.\n\nUse Cases:\n\n• Create engaging blog content for a variety of industries and subjects.\n\n• Save time and effort in generating fresh content ideas.\n\n• Improve your website's search engine ranking with SEO-friendly content.",
+    "category": [
+      "SEO"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/3efcea049728460777fb9b1bd178ebff38de0b28-1665x945.webp",
+    "subtitle": "AI writing assistant for creating SEO-friendly blogs.",
+    "tags": [
+      "SEO"
+    ]
+  },
+  {
+    "title": "WolframAlpha",
+    "description": "Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase, and AI technology. Geared towards the subjects of Mathematics, Science & Technology, Society & Culture, and Everyday Life.",
+    "category": [
+      "research",
+      "education assistant"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/c708ae77a25d7a22aaff1acdbb416b0dfc43d7b1-1866x922.jpg",
+    "subtitle": "Compute expert-level answers in Math, Science, Society, Culture & Everyday Life",
+    "tags": [
+      "research",
+      "education assistant"
+    ]
+  },
+  {
+    "title": "Browse AI",
+    "description": "The easiest way to extract and monitor data from any website. Train a robot in 2 minutes. No coding required.",
+    "category": [
+      "low-code/no-code"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/58a31a2c1b65575ad7ef96be70a15677c8120922-3733x1681.png",
+    "subtitle": "Train a robot to extract & monitor data from any website, no coding needed.",
+    "tags": [
+      "low-code/no-code"
+    ]
+  },
+  {
+    "title": "CAPTURELAB",
+    "description": "Capturelab is a powerful tool for streamers seeking to showcase their best gaming moments and grow their channel. Key features and advantages include:\n\nAI-powered highlights: Automatically detects and highlights exciting and memorable moments from any length of stream\n\nEasy editing and sharing: Edit, connect, and share video reels to various social media platforms\n\nAdlab integration: Monetize content by connecting streamers to sponsorship campaigns\n\nFree to use: Simply sign up with a Twitch account and let Capturelab handle the rest\n\nUse cases for Capturelab are ideal for various streamers:\n\nGaming enthusiasts looking to showcase their skills and memorable moments\n\nContent creators seeking to grow their audience and channel reach\n\nStreamers aiming to monetize their content through sponsorship campaigns\n\nOverall, Capturelab offers an effortless solution for capturing, editing, and sharing the best gaming moments, helping streamers expand their audience and monetize their content.",
+    "category": [
+      "video editing",
+      "social media assistant",
+      "gaming"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/9c6a06c76e01f7fdc94e8a4189c997f6f5337a53-1878x966.jpg",
+    "subtitle": "CAPTURELAB auto-detects your best gaming moments with AI!",
+    "tags": [
+      "video editing",
+      "social media assistant",
+      "gaming"
+    ]
+  },
+  {
+    "title": "Taskade",
+    "description": "A magical list to break down complexities and map out your collective mind. Unlock your collaborative brain and connect tasks, notes, and teams, in one unified workspace.",
+    "category": [
+      "productivity",
+      "memory"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/786c182b4fa48436feaa916a2b8ab54723761272-1680x876.png",
+    "subtitle": "Build a Second Brain for Your Team.",
+    "tags": [
+      "productivity",
+      "memory"
+    ]
+  },
+  {
+    "title": "Moonbeam",
+    "description": "Moonbeam is an AI-powered long-form writing assistant designed to generate content efficiently. Key features and advantages include:\n\nContent generation: Create essays, stories, articles, blogs, and other long-form content with ease\n\nOutline Wizard: Transform jumbled notes into organized outlines and well-written paragraphs\n\nCustom Style Generator: Write in the style of famous authors, comedians, and politicians\n\nTemplates: Access templates for various content types, such as Technical Guides, Essays, and Newsletters\n\nMoonbeam Pro: Unlock unlimited writing, social media posts, Luna AI access, and template access\n\nUse cases for Moonbeam cater to various content creators:\n\nStudents seeking assistance with essay writing and organization\n\nBloggers aiming to generate content quickly and efficiently\n\nWriters looking to experiment with different writing styles and formats\n\nOverall, Moonbeam offers a comprehensive solution for long-form content generation, backed by a 100% money-back guarantee.",
+    "category": [
+      "SEO"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/33a90aa17d03d8ca27ede8c53aff254ee86dca26-1665x945.webp",
+    "subtitle": "Moonbeam's AI helps you write better long form content in 10 minutes.",
+    "tags": [
+      "SEO"
+    ]
+  },
+  {
+    "title": "Playground AI",
+    "description": "Playground AI is a free-to-use AI image creator designed for various creative purposes. Key features and advantages include:\n\nAI-driven algorithms: Generates images from text prompts in various styles, such as analog, pltn, geo2099, retrofuturism, olpntng, and water Genasi\n\nHigh-quality images: Detailed, photorealistic images with dynamic lighting and volumetric effects\n\nCustomization: Adjust images for a unique look and feel, with options for 4K and 8K resolution\n\nPlatform compatibility: Works seamlessly with Unreal Engine, Octane Render, and Studio Ghibli\n\nUse cases for Playground AI are ideal for various creative needs:\n\nArtists seeking AI-generated images for their projects\n\nSocial media managers creating visually appealing posts\n\nDesigners working on presentations, posters, videos, and logos",
+    "category": [
+      "art",
+      "search engine"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/fc8c34224a0f5364939cf2ab66fe51f065a37b10-1680x876.png",
+    "subtitle": "Create art, logos, videos, posters with free online AI image creator.",
+    "tags": [
+      "art",
+      "search engine"
+    ]
+  },
+  {
+    "title": "SheetAI.app",
+    "description": "Available for Google Sheets. Use AI to transform your text instructions into a Google Sheet formula quickly. Has use cases in generating programmatic SEO content, personalized emails and many more.",
+    "category": [
+      "SEO",
+      "spreadsheets"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/e1267955992d7579abcf3ceb21dc79df3349e613-1870x957.jpg",
+    "subtitle": "AI-powered tool to quickly generate formulas for Google Sheets.",
+    "tags": [
+      "SEO",
+      "spreadsheets"
+    ]
+  },
+  {
+    "title": "Airops",
+    "description": "AirOps Sidekick is an AI-powered data assistant designed to help teams unlock the power of data for faster and more efficient analysis. Key features and advantages include:\n\nPowerful recipes: Create SQL queries, documents, and internal tools with live data\n\nFaster query generation: Leverage natural language processing to generate SQL queries 3x faster\n\nError fixing and optimization: SQL Fixer for syntax errors, SEO Helper for product descriptions, and Brand Helper for idea generation\n\nAdditional tools: Liquid Template Generator, A/B Test Creator, and Email Writer\n\nUse cases for AirOps Sidekick are ideal for various teams:\n\nData analysts seeking faster and more efficient data analysis\n\nMarketing professionals looking to optimize product descriptions and generate ideas\n\nDevelopers aiming to improve their SQL query creation and fix syntax errors\n\nOverall, AirOps Sidekick offers a comprehensive and free solution for individuals and small teams to enhance their data analysis capabilities.",
+    "category": [
+      "SQL"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/3bb4e916031f51bde43c3411ba2c4ec1a17bf8b4-1920x879.png",
+    "subtitle": "Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more",
+    "tags": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Replit",
+    "description": "Replit recently added a feature called Ghostwriter that uses AI to complete code. Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, & interpreter.",
+    "category": [
+      "code assistant"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/2d502dd4f7e4bca13082a5b33eff0b983c9104bf-1680x876.png",
+    "subtitle": "Write & run code in 50+ languages with Replit's Ghostwriter AI feature.",
+    "tags": [
+      "code assistant"
+    ]
+  },
+  {
+    "title": "LetsView Chat",
+    "description": "LetsView Chat is an innovative AI tool that allows users to engage in real-time conversations with an AI assistant to obtain answers to a wide range of questions. By signing up or logging into the platform, users gain access to this interactive AI assistant.\n\nKey Features:\n\nAI Assistant Conversations: Engage in real-time conversations with an AI assistant to obtain answers and information.\n\nWide Range of Queries: Ask questions on various topics, including translation, summarization, rewriting, code explanation, and more.\n\nInformative Responses: Receive prompt and informative responses from the AI assistant, serving as a valuable knowledge base.\n\nVIP Membership: Unlock exclusive benefits and privileges by becoming a VIP member.\n\nDiscord Community: Join a vibrant community on Discord to connect, share knowledge, and engage in discussions.\n\nUse Cases:\n\nIndividuals seeking quick answers to a wide range of questions.\n\nLanguage learners looking for translation assistance and language-related queries.\n\nWriters and content creators in need of rewriting or summarization support.\n\nProgrammers and developers requiring code explanations or troubleshooting assistance.\n\nIndividuals looking to expand their knowledge and engage in discussions with like-minded individuals.\n\nLetsView Chat revolutionizes the way users interact with AI technology, offering a seamless and engaging experience for obtaining information and answers.",
+    "category": [
+      "general writing"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/a257ae926498f956dca628f32c79b6db4649eb8d-2525x1267.jpg",
+    "subtitle": "LetsView Chat is an AI tool that allows users to chat with an AI assistant to get answers to various questions. ",
+    "tags": [
+      "general writing"
+    ]
+  },
+  {
+    "title": "MakerBox",
+    "description": "MakerBox is a marketing tool powered by ChatGPT that supercharges your marketing efforts. It offers 40 hand-crafted Marketing Mega-Prompts for Solopreneurs to generate marketing strategies, enhance landing pages, and create compelling content in seconds.\n\nKey Features:\n\n40 Marketing Mega-Prompts: Access a hand-crafted collection of 40 Marketing Mega-Prompts designed for Solopreneurs.\n\nMarketing Strategy Generation: Generate comprehensive marketing strategies to drive business growth.\n\nLanding Page Improvement: Enhance your landing pages to increase conversions and user engagement.\n\nContent Creation: Create compelling and high-quality content to captivate your audience.\n\nTime-Saving Efficiency: Save time and effort by leveraging ChatGPT to expedite your marketing tasks.\n\nUse Cases:\n\n• Marketing Strategy Development: Generate effective marketing strategies tailored to your business.\n\n• Landing Page Optimization: Improve landing page performance to drive conversions and user satisfaction.\n\n• Content Creation and Enhancement: Create engaging and persuasive content to attract and retain your audience.\n\nMakerBox empowers Solopreneurs with an AI-powered marketing tool that streamlines marketing tasks and amplifies results.",
+    "category": [
+      "prompts"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/5be7a5b187c6cf4daf21e130033adf1f57343993-2537x1265.jpg",
+    "subtitle": "Meet your new marketing co-pilot Let ChatGPT do the hard work for you",
+    "tags": [
+      "prompts"
+    ]
+  },
+  {
+    "title": "Ayfie",
+    "description": "Ayfie is an enterprise search platform powered by ChatGPT, allowing business users to have conversations with a personal assistant using their internal company documents. Ayfie offers powerful search capabilities, text analysis, and compliance features to empower users in their data management.\n\nKey Features:\n\nChatGPT Integration: Engage in free-flowing conversations with a personal assistant using internal company documents.\n\nAdvanced Search Engine: Discover hidden data and gain deeper insights with Ayfie's powerful enterprise search platform.\n\nText Analysis: Leverage NLP and ML capabilities for first-class text analysis and data classification.\n\nCompliance Solutions: Ensure regulatory compliance and proactive data protection with Ayfie's Compliance and GDPR product.\n\nUse Cases:\n\n• Document-based Conversations: Chat freely with a personal assistant using your internal company documents.\n\n• Enhanced Data Discovery: Uncover valuable insights and patterns within your data using Ayfie's search engine and text analysis capabilities.\n\n• Regulatory Compliance: Safeguard sensitive data and enforce data privacy measures with Ayfie's Compliance and GDPR product.\n\nAyfie empowers businesses with an AI-powered enterprise search platform that enables document-based conversations and unlocks valuable insights.",
+    "category": [
+      "startup tools"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/258fcbb47260214e7588a55fe39181dd0e5bb1bd-2525x1274.jpg",
+    "subtitle": "With Ayfie, You Access All Your Data",
+    "tags": [
+      "startup tools"
+    ]
+  },
+  {
+    "title": "BrandScript Generator",
+    "description": "Simplify your brand messaging with the BrandScript Generator, an innovative tool by With Love Internet LTD that employs the StoryBrand methodology. The BrandScript Generator uses the same principles to guide you in creating a powerful and concise brand script, articulating your unique value proposition effectively to your target audience.\n\nKey Features:\n\nStoryBrand Methodology: Utilize the tried-and-true StoryBrand principles for brand script creation.\n\nClear Messaging: Create clear and concise descriptions of your brand that effectively communicate your unique value proposition.\n\nUser-friendly Interface: Navigate a simple, easy-to-use platform to generate and reset your brand script as needed.\n\nUse Cases:\n\nCraft a unique, compelling brand script that clearly articulates your value proposition.\n\nEnhance your brand's communication by delivering a coherent and concise message.\n\nNavigate and generate brand scripts easily with a user-friendly interface.\n\nBrandScript Generator can be the pivotal tool in constructing your brand's story, offering a straightforward approach to refining your messaging. Its seamless blend of ease-of-use and effective principles makes it an essential resource for any business seeking to improve its brand communication.",
+    "category": [
+      "copywriting"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/f5938768f4385ec27f3af3e74686f0d0ac38b466-2536x1265.jpg",
+    "subtitle": "Craft your unique brand message effortlessly with the BrandScript Generator.",
+    "tags": [
+      "copywriting"
+    ]
+  },
+  {
+    "title": "Promptchan",
+    "description": "Promptchan is an AI-powered image creation platform that allows users to generate images without any restrictions. The tool is continuously evolving, with upcoming features including a photo-real model for actresses and actors, upscale interpretation, face fix, and additional presets.\n\nKey Features:\n\nAI-powered image creation with no restrictions\n\nPhoto-real model for generating AI photographs of actresses and actors\n\nUpscale interpretation for enhancing image resolution and quality\n\nFace fix functionality for refining and enhancing facial features\n\nAdditional presets to expand creative possibilities\n\nUse Cases:\n\nContent creators and designers looking for an AI-powered platform to generate images without any limitations\n\nPhotographers and artists interested in exploring new possibilities and pushing the boundaries of image creation\n\nIndividuals and businesses seeking to enhance their visual content with high-quality AI-generated images\n\nThose in need of realistic AI-generated photographs of actresses and actors for various purposes, such as marketing campaigns or artistic projects\n\nPromptchan is dedicated to providing users with an exceptional image creation experience, enabling them to unleash their creativity and produce captivating visuals without constraints.",
+    "category": [
+      "image generator",
+      "prompts"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/46c7484a3de7a5d9fd53943a3c3c463eb5eefe10-1887x925.png",
+    "subtitle": "Create Anything - AI With No Restrictions",
+    "tags": [
+      "image generator",
+      "prompts"
+    ]
+  },
+  {
+    "title": "LoveGenius",
+    "description": "LoveGenius is an AI-powered tool designed to help users create unique and attention-grabbing dating bios. Key features and advantages include:\n\nOptimized profiles: Quickly create personalized profiles that showcase users' true personalities for better matches\n\nPowered by Cookiebot: Utilizes cookies for content personalization and anonymous visitor interaction data\n\nScientifically proven: Backed by dating experts to maximize attraction with a focus beyond profile pictures\n\nUse cases for LoveGenius are ideal for various individuals:\n\nOnline daters seeking to improve their profile and attract better matches on dating apps\n\nDating coaches wanting to provide clients with a powerful tool for profile optimization\n\nApp users looking to experiment with different writing styles and approaches for effective profiles\n\nOverall, LoveGenius offers a scientifically proven and user-friendly solution for creating standout dating bios that attract better matches.",
+    "category": [
+      "life assistant"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/b5adcf30a823c895884c9af43c97d6f505f2d8f5-1680x876.png",
+    "subtitle": "AI dating assistant to attract better matches",
+    "tags": [
+      "life assistant"
+    ]
+  },
+  {
+    "title": "Supermanage AI",
+    "description": "Supermanage AI is a tool designed to make 1-on-1 meetings more effective and productive. It provides a pre-meeting brief by distilling Slack channels into a customized employee brief and enables real-time conversations to gain deeper insights about team members.\n\nKey Features:\n\nPre-meeting Brief: Supermanage AI generates a customized employee brief by distilling Slack channels, providing users with relevant information before each 1-on-1 meeting.\n\nReal-time Conversations: Users can engage in real-time conversations with Supermanage AI during 1-on-1 meetings to gain deeper insights about their team members.\n\nHuman-Centric Approach: Supermanage AI acts as an assistant, allowing users to focus on building connections and understanding their team members.\n\nJoin Waitlist: Users can join the waitlist to be notified when Supermanage AI becomes available.\n\nUse Cases:\n\nManagers and team leaders who want to optimize their 1-on-1 meetings and stay connected with their team members.\n\nProfessionals who need a tool to help them stay organized and prepared for 1-on-1 discussions.\n\nTeams and organizations that rely on Slack for communication and want to leverage AI technology to enhance their 1-on-1 meetings.\n\nIndividuals who value meaningful conversations and want to gain deeper insights about their colleagues.\n\nSupermanage AI offers a valuable solution for streamlining 1-on-1 meetings and fostering better connections between managers and team members.",
+    "category": [
+      "productivity"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/9669a95abac5fdbe7e1b896dffa26a146c7a8c93-2536x1268.jpg",
+    "subtitle": "Effortless prep  for your 1-on-1",
+    "tags": [
+      "productivity"
+    ]
+  },
+  {
+    "title": "Orygo AI",
+    "description": "Orygo AI is an AI-powered learning and analysis tool that helps users save time and gain accurate insights quickly. It allows users to turn hours of research into minutes of understanding, leveraging AI technology for efficient analysis and freeing up more time for knowledge application.\n\nKey Features:\n\nTime Savings: Orygo AI helps users save hundreds of hours by condensing extensive research processes into minutes of understanding.\n\nAccurate Insights: Leveraging AI technology, Orygo AI provides users with accurate insights for informed decision-making.\n\nEfficient Analysis: The tool's AI capabilities enable quick processing and analysis of information, identifying patterns and extracting key insights.\n\nTime for Knowledge Application: By streamlining research and analysis, Orygo AI frees up more time for users to apply their knowledge and drive results.\n\nUse Cases:\n\nResearchers and analysts who need to process large volumes of data and gain insights quickly.\n\nStudents and educators who want to condense research and analysis processes to focus more on learning and application.\n\nProfessionals across various industries who need efficient analysis tools to support their decision-making processes.\n\nIndividuals who want to leverage AI technology to enhance their learning and understanding of complex information.\n\nOrygo AI provides a valuable solution for users seeking to save time, gain accurate insights, and apply knowledge effectively.",
+    "category": [
+      "education assistant"
+    ],
+    "payment": "free trial",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/ec2fd7e8b51cda80052026853817cac36569d3d0-2532x1270.jpg",
+    "subtitle": "Your Learning and Analysis AI Copilot",
+    "tags": [
+      "education assistant"
+    ]
+  },
+  {
+    "title": "Video Candy",
+    "description": "Video Candy is an online video editing platform that provides a comprehensive set of tools for editing videos. It offers a range of features such as video editing, compression, trimming, merging, cropping, resizing, screen recording, adding music, changing speed, muting, creating slideshows, reversing, rotating, looping, flipping, stop motion, video and audio conversion, and more. The tool is free and user-friendly, making it easy to edit videos online.\n\nKey Features:\n\nVideo editing: Trim, merge, crop, resize, and compress videos.\n\nScreen recording: Capture screen activity for tutorials or presentations.\n\nAudio editing: Add music, change speed, and mute video audio.\n\nSlideshow maker: Create engaging slideshows with transitions and effects.\n\nAdvanced video manipulation: Reverse, rotate, loop, flip, and create stop-motion animations.\n\nVideo and audio conversion: Convert videos and audio files to different formats.\n\nUse Cases:\n\nContent creators and social media influencers who need quick and convenient video editing tools.\n\nProfessionals who require basic video editing functionalities without the need for complex software.\n\nStudents and educators who want to create engaging presentations or educational videos.\n\nIndividuals who want to enhance personal videos or create unique video content for sharing.\n\nVideo Candy offers a wide range of video editing tools in a user-friendly online platform. With its extensive features and easy accessibility, users can edit videos effortlessly, enabling them to create professional-looking videos for various purposes.",
+    "category": [
+      "video editing"
+    ],
+    "payment": "freemium",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/8d581e52585c054fef16b06438a73f06cd426251-2531x1239.jpg",
+    "subtitle": "Every tool you need to edit videos online. Free and easy to use!",
+    "tags": [
+      "video editing"
+    ]
+  },
+  {
+    "title": "Ambience",
+    "description": "Ambience is a powerful Chrome extension that revolutionizes your new tab experience by immersing you in a world of limitless creativity, inspiration, and productivity. It replaces your standard new tab with stunning AI-generated wallpapers that refresh every hour, ensuring that your workspace remains visually captivating and dynamic.\n\nKey Features:\n\nAI-Generated Wallpapers: Experience stunning and dynamic AI-generated wallpapers that refresh every hour.\n\nInspiring AI-Generated Quotes: Discover thought-provoking and motivational quotes paired with each wallpaper.\n\nLeap API Integration: Utilize advanced AI algorithms powered by the Leap API to create captivating visuals.\n\nImage Prompts Exploration: Get insights into the image prompts that inspired each AI-generated masterpiece.\n\nWallpaper Download: Download and keep your favorite wallpapers for personal use beyond the new tab experience.\n\nUse Cases:\n\nIndividuals seeking a visually stimulating and dynamic new tab experience.\n\nProfessionals looking for an inspiring and motivational workspace to enhance their productivity.\n\nCreatives in need of a continuous source of inspiration for their artistic endeavors.\n\nAnyone who wants to personalize their Chrome browsing experience with AI-generated wallpapers and quotes.\n\nUsers interested in exploring the creative process behind AI-generated artwork.\n\nAmbience Chrome Extension is an excellent tool for those looking to enhance their workspace with visually captivating AI-generated wallpapers and inspiring quotes.",
+    "category": [
+      "image generator",
+      "fun tools"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/bd05a37d34c629c2bf467c3557c369ed524e804b-2560x1172.jpg",
+    "subtitle": "AI Wallpapers & Quotes",
+    "tags": [
+      "image generator",
+      "fun tools"
+    ]
+  },
+  {
+    "title": "Auto Portrait",
+    "description": "Auto Portrait is the leading online AI portrait generator that brings your selfies to life in a whole new way. With the power of artificial intelligence, this tool analyzes a few pictures of you and teaches the computer to accurately draw your face. Once trained, it generates fresh and unique portraits of you in any style you desire.\n\nKey Features:\n\nAI-Powered Portrait Generation: Utilize advanced AI algorithms to generate unique portraits from your uploaded selfies.\n\nMultiple Artistic Styles: Choose from a wide range of artistic styles to apply to your portraits.\n\nCommercial Usage: Have the freedom to use your AI-generated portraits for commercial purposes.\n\nUser-Friendly Interface: Enjoy a seamless and intuitive experience while creating your AI portraits.\n\nSelfie-Based Training: Train the AI model with a few pictures of yourself to accurately represent your unique facial features.\n\nUse Cases:\n\nIndividuals seeking to transform their selfies into artistic and unique portraits.\n\nArtists and designers looking for inspiration and a starting point for their artwork.\n\nSocial media influencers and content creators in need of eye-catching visuals for their online presence.\n\nBrands and businesses looking for personalized and visually appealing portraits for branding and marketing purposes.\n\nUsers interested in exploring the intersection of technology and art through AI-generated portraits.\n\nAuto Portrait is the perfect tool for those who want to unleash their creativity and bring their selfies to life in artistic and imaginative ways.",
+    "category": [
+      "image generator"
+    ],
+    "payment": "paid",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/3125ecaee16471dcd4447be05fa9b2d56e70f28b-2533x1268.jpg",
+    "subtitle": "Upload a few selfies and generate unique portraits of you in any styles.",
+    "tags": [
+      "image generator"
+    ]
+  },
+  {
+    "title": "Geniea",
+    "description": "GENIEA is an AI-powered tool that utilizes gpt-3.5-turbo technology to optimize personal journey prompts for individuals. It offers personalized prompts based on user preferences and interests, helping users navigate and excel in various journeys, such as learning new skills or exploring new topics.\n\nKey Features:\n\nPersonalized Journey Prompts: Provides personalized prompts based on user preferences and interests.\n\nTailored to Individual Needs: Customizes prompts to align with the user's requirements and goals.\n\nAssistant Avatar (Geniea): Interacts with users and collects their desired prompts.\n\nSmooth and Easy-to-Use Interface: Offers a user-friendly experience for seamless interaction.\n\nAccelerates Journeys: Engages and motivates users, helping them make progress in their journeys.\n\nCreated by itsanderz: Developed by a passionate AI and machine learning enthusiast.\n\nUse Cases:\n\nIndividuals seeking personalized prompts and guidance for learning new skills.\n\nUsers exploring new topics and wanting tailored prompts to enhance their learning experience.\n\nIndividuals embarking on personal growth journeys and needing personalized guidance.\n\nUsers pursuing specific goals and seeking prompts to keep them on track.\n\nLearners who prefer an interactive and engaging approach to their journeys.\n\nIndividuals looking for a tool that optimizes journey prompts based on their preferences and interests.\n\nGENIEA leverages advanced AI technology to deliver personalized journey prompts, empowering individuals to excel in their chosen paths.",
+    "category": [
+      "prompts"
+    ],
+    "payment": "free",
+    "image": "https://cdn.sanity.io/images/u0v1th4q/production/50ccef7aba8cd737909a51f2634c230787c46d1a-2560x1261.jpg",
+    "subtitle": "Generated prompts for personal journeys.",
+    "tags": [
+      "prompts"
+    ]
+  }
+]

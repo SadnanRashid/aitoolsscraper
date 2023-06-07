@@ -1,0 +1,997 @@
+[
+  {
+    "title": "Pi",
+    "description": "Your personal ChatBot with VOICE, designed to be supportive, smart, and there for you anytime.\nFeatures: \ndesigned to be kind and helpful.\nTo help it understand the world, Pi has been shown billions of lines of text available on the open web, which it processes using one of the largest supercomputers in the world. This allows it to have conversations with you and answer a huge range of questions – from general knowledge to personal relationships; from silly to serious.\nKind and supportive. Pi is here to help you process thoughts and feelings, express yourself, and work through tricky decisions through conversation. Whenever you need to talk something over, it’s your listening ear.\nKnowledgeable and succinct. Pi has lots of information but knows how to be brief. Its goal is to turn web browsing into a conversation. Just say whatever it is you want and Pi will give you answers and ideas in as much or as little detail as you’d like.\nCreative and fun. Pi loves to discover and explore, and is here to help you do the same. It tries to be playful, laughs easily, and is quick to make a surprising connection.\nCurious and eager to improve. It’s still early days for Pi and for now, you can’t fully rely on everything it says. Please double-check what Pi tells you.\nMost of all, here for you. Pi is on your team and in your corner. It’s interested in everything you are and is excited to meet you.",
+    "category": "ChatBots",
+    "tags": [
+      " Free# Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/06/Pi.png"
+  },
+  {
+    "title": "Odin AI",
+    "description": "An Advanced ChatGPT Alternative With Constant Access To Real-Time Factual Information.\nFeatures: \nGet real-time information, research any topic, and write content in several tones.\nNot only does Odin pull up the most up-to-date reliable data for any topic by staying connected to the internet, Odin also contextualizes this information so you always get insightful, personalized results.\nOdin can identify and collate key metrics and information from your chat and convert it into a handy document.\nGo beyond your workspace and access Odin on the go from your mobile browser without compromising on any of Odin’s features.",
+    "category": "Life Assistant",
+    "tags": [
+      " Free# Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/06/odin-ai.png"
+  },
+  {
+    "title": "Ortus",
+    "description": "An AI agent (currently a Chrome extension) that lets you “talk with YouTube videos.\nFeatures: \nOrtus saves you time by allowing you to ask your AI buddy questions about the videos while enjoying your fav YouTube channels.\nGo from passive to interactive video watching: engage in real-time conversations with an AI companion right alongside the video. Ask him questions and get relevant answers back\nGet high quality summaries and grasp the key points and insights without watching the entire video.",
+    "category": "Productivity",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/06/Ortus-ai.png"
+  },
+  {
+    "title": "Brain.fm",
+    "description": "AI Music to improve focus, meditation, and sleep.\nFeatures: \n",
+    "category": "Music",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Brain-fm-1.png"
+  },
+  {
+    "title": "Paragraphica",
+    "description": "This is a neat art project.\nFeatures: \nThe camera displays a description of your current location, utilizing the address, weather, time of day, and nearby places. When pressing the trigger, the camera will create a photographic representation of it using a text-to-image AI.\nA camera that takes photos using location data.\nIt describes the place you are at and then converts it into an AI-generated “photo”.\nYou hit the shutter button and an image is generated based on your location and weather conditions.",
+    "category": "Fun Tools",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/06/Paragraphica.png"
+  },
+  {
+    "title": "2short AI",
+    "description": "Easily extract the best moments of your videos and turn them into performing short videos.\nFeatures: \nIt will save you time in extracting key parts from each youtube videos.\nGrow your subscriber base by giving viewers a taste of your content and highlighting your channel.\nMaximize reach by turning long videos into shorts that are more likely to be watched and shared.\nSave editing time by letting AI extract the best moments from your videos, so you spend more time doing what you love.\nGreat tools to create shorts from longer videos for content creators.\nLearn key insights from each videos (it extracts the best part from a video)",
+    "category": "Content Creation",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/2short-ai.png"
+  },
+  {
+    "title": "Reimagine",
+    "description": "Reimagine by MyHeritage is a photo editing app with AI-powered capabilities for scanning, restoring, enhancing, colorizing, and animating old photos, making it easy to preserve and share precious memories.\nFeatures: \nPhoto scanner: Easily scan photos and album pages, automatically crop them, and save them as individual photos.\nPhoto storage and sharing: Keep all your photos in one place and share them with friends and family.\nPhoto enhancer and repair: Enhance image quality, improve resolution, and repair damaged photos using advanced AI technology.\nColorize photos: Transform black and white or faded photos into colorful images to bring them to life.\nPhoto animation: Use AI technology to animate your family photos, creating short videos with gestures like smiles, dances, and kisses.",
+    "category": "Image Editing",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/reimagine.png"
+  },
+  {
+    "title": "Graphy AI",
+    "description": "Make slick, interactive data visualizations with a free chart-maker tool — no log-in required.\nFeatures: \nCreate the quickest way to make stunning and interactive charts.\nStart with what you want to build and let us showcase your idea in a sample visualization with the perfect chart type and title.\nA chart only tells part of the story. Use Graphy AI’s suggestions to capture the most important insights from your data.\nIt’s designed to handle a significant amount of data and has been tested to support that.\nThe world’s fastest and easiest tool to create charts.",
+    "category": "Startup Tools",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Graphy.png"
+  },
+  {
+    "title": "ChatMind",
+    "description": "AI that quickly generates a complete mind map.\nFeatures: \nInput questions, articles, etc. to generate mind maps by artificial intelligence. Support for multiple rounds of dialogue rewriting extensions.\nIt supports multiple rounds of dialogue rewriting and expansion.\nIt helps you with your thoughts and decision-making.\nChatMind AI can be used in a variety of scenarios, such as note-taking, scheduling, project management, brainstorming, framing, and so on. It can not only help users to summarize and analyze quickly, but also provide creative inspiration continuously.",
+    "category": "Life Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Chatmind.png"
+  },
+  {
+    "title": "CapeChat",
+    "description": "Keep sensitive data private while still using ChatGPT.\nFeatures: \nAutomatic encryption of your documents & redaction of any sensitive data while using ChatGPT.\nPerfect tool, if you’re worried about uploading sensitive data into ChatGPT.\nIt claims a secure and private AI assistant powered by ChatGPT. You can upload sensitive documents like financials, notes, or contracts, and I can quickly deliver the insights you need.",
+    "category": "ChatBots",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/capechat-1.png"
+  },
+  {
+    "title": "Cyte AI",
+    "description": "A visual, searchable knowledge is the base of your screen time.\nFeatures: \nSearch by text contained within any application\nUnderstand where you spend your time\nPrivate and secure\nFind the exact moment you are looking for using Cyte Timeline to quickly navigate your digital memories.\nSummarize work, locate content without precise keywords, and connect information from various sources, identifying hidden patterns and relationships.",
+    "category": "Productivity",
+    "tags": [
+      " Free# Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/cyte-ai.png"
+  },
+  {
+    "title": "HeyGen",
+    "description": "HeyGen is a video platform that utilizes generative AI to help users create professional business videos easily. It allows you to create engaging videos for various purposes like marketing, sales, training, and onboarding.\nFeatures: \nChoose from 100 + AI avatars representing different ethnicities, ages, and poses.\nUpload your photo and swap your face onto an AI avatar, creating personalized spokesperson videos.\nUpload a portrait photo and add text to create interactive and talking photos.\nConvert URLs into videos.\nConvert text into speech with over 300 voices available in 40+ languages.\nAutomate tasks and enhance workflow by integrating HeyGen with Zapier, eliminating repetitive manual processes.\nAccess step-by-step tutorials to learn how to create professional spokesperson videos easily.",
+    "category": "Video Generator",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/heygen.png"
+  },
+  {
+    "title": "Studio Design",
+    "description": "Create Powerful text-to-design AI tool with great editing capabilities.\nFeatures: \nA web design tool for the intelligence age\nDesign with a revolutionarily intuitive editor\nInstantly turn static designs into live websites\nMake designs responsive\nSwitch between dark and light mode\nEdit styles and fonts",
+    "category": "Design",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/studio-ai.png"
+  },
+  {
+    "title": "Parrot AI",
+    "description": "Parrot AI is an AI tool that helps businesses collect, transcribe, and securely store important business experiences like video conferences, presentations, or customer calls.\nFeatures: \nParrot AI’s new screen recording feature allows you to effortlessly capture and securely share your ideas, eliminating the need for lengthy emails and meetings.\nIdentifies and highlights important moments from conversations.\nHelps retain relevant knowledge for cross-functional collaboration.\nGain insights from customer interactions and incorporate their feedback into business operations.\nAutomatically transcribes and stores meetings from popular platforms like Zoom, Google Meet, etc.",
+    "category": "Productivity",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/parrot-ai.png"
+  },
+  {
+    "title": "Contlo",
+    "description": "Contlo is an AI-native marketing platform that allows businesses to utilize their own generative AI Model for end-to-end marketing, including personalized campaigns, automated customer journeys, audience management, data collection, and performance insights across various communication channels.\nFeatures: \nAllows training of the brand’s own generative AI model for contextual creative generation.\nSimplifies marketing by using a chat interface to run the entire marketing stack.\nGenerates landing pages, rich emails, SMS, and social media creatives using plain English\nConducts real-time A/B tests to identify winning creatives\nSmart cross-channel automation flows to boost conversions\nCustom audience management AI for intelligent customer segmentation",
+    "category": "Marketing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/contlo-2.png"
+  },
+  {
+    "title": "WavTool",
+    "description": "The world’s first music production AI.\nFeatures: \nEven if you’re a complete beginner, Conductor can guide you through the process, provide recommendations, and make changes directly in order to make your music sound its best.\nRecord, compose, produce, mix, master, and export all within the browser. No installations, no updates, no waiting. Just music-making, all the way.\nWith side-chain compression, advanced synthesis, flexible signal routing, and more, it’s time to make music that meets your standards.\nWavTool’s Conductor AI takes plaintext English and explains concepts, makes suggestions, and guides you along the way to make your music-making as frictionless as possible.",
+    "category": "Music",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/wavtool.png"
+  },
+  {
+    "title": "InVideo",
+    "description": "A comprehensive video editing suite.\nFeatures: \nText-to-video.\nYou can turn any content or idea into video, instantly.\nAccess over 5,000 templates to enhance your creations.\nAI-based script generation using prompts/blogs/articles.\nBest video editor for YouTube.\nThe first 6 seconds can make or break your video! Win your viewer’s attention with eye-catching intros. Make beautiful intro videos with InVideo’s free video intro maker easily.\nPower your business with professional quality videos that you can create quickly, without editing skills.\nYou can create the funniest video memes in a few clicks.\nCreate professional quality social media ads, promos videos, and much more for your business with InVideo’s online video editor.",
+    "category": "Video Generator",
+    "tags": [
+      " Free# Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/invideo.png"
+  },
+  {
+    "title": "LOVO",
+    "description": "LOVO is an AI Voice Generator and Text-to-Speech platform that offers a wide range of realistic human-like voices in multiple languages.\nFeatures: \nProduces realistic human-like voices with natural intonation and emotional expressiveness.\nBoasts over 400 voices with various styles and accents.\nSupports creating voiceovers in over 100 languages for a global audience.\nProvides a comprehensive tool called Genny for seamless voiceover integration into videos.",
+    "category": "Text-to-speech",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/lovo-.png"
+  },
+  {
+    "title": "Boxy",
+    "description": "Boxy is an AI coding companion designed to assist and support developers within the CodeSandbox environment.\nFeatures: \nGenerates contextual code tailored to your project.\nIt offers intuitive code refactoring, allowing you to request code improvements directly from the app preview.\nIt simplifies the process of writing commit messages by suggesting meaningful ones based on your changes.\nProvides explanations and insights to help developers improve their coding skills.",
+    "category": "Code Assistant",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Boxy.png"
+  },
+  {
+    "title": "Opera Aria",
+    "description": "Aria is an AI chatbot developed by Opera, integrated directly into their web browser sidebar. It acts as a virtual assistant, providing users with various features and capabilities.\nFeatures: \nUtilizes OpenAI’s GPT technology for AI-driven responses and assistance.\nPowered by Opera’s Composer infrastructure for connecting to multiple AI models.\nFetches and displays live web results for real-time information.\nCapable of generating text or code based on user inputs.\nAccesses company’s support documentation for advanced customer support.",
+    "category": "ChatBots",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Opera.png"
+  },
+  {
+    "title": "KAI – KeyboardAI",
+    "description": "KAI – KeyboardAI is an innovative app designed to enhance the typing experience on iPhones. It integrates AI capabilities into the keyboard, providing users with AI assistance while writing and communicating.\nFeatures: \nAI-Powered Writing: Craft perfect messages, emails, and more with smart suggestions.\nContextual Responses: Relevant and engaging responses based on conversation context.\nMultilingual Support: Effortlessly communicate in multiple languages with AI-generated translations.\nProfessional Writing: Improve professional communication with clear and concise emails and texts.\nDating Mode: Craft witty, charming, and engaging messages to enhance dating success.\nQuick Access: Always available with a single tap on your iPhone keyboard.",
+    "category": "Life Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/KeyboardAI.png"
+  },
+  {
+    "title": "Lavender",
+    "description": "Lavender is an AI email assistant that provides users with a range of features to improve their sales email writing process. It combines AI analysis, social data integration, and productivity tools to help users craft better emails and achieve higher response rates.\nFeatures: \nOffers a chatbot to initiate and carry out initial conversations with prospects and leads\nAutomatically identifies the most promising leads likely to become customers.\nRecommends topic ideas and generates content based on written input or sample text.\nDetects grammar errors and evaluates the emotional tone of written content.\nProvides real-time coaching to sales representatives and tracks their performance.\nFacilitates integration with other software applications through APIs.",
+    "category": "Marketing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Lavender.png"
+  },
+  {
+    "title": "Google’s Soundstorm",
+    "description": "An open-source project called Soundstorm is dedicated to the project of generating an artificial intelligence voice (developed by Google).\nFeatures: \nSoundstorm is particularly good at creating conversations between multiple participants.\nAnd, the project has been open-sourced on Github, which means that anyone can download its code, study it or improve it.\nIt also hints that Soundstorm may bring competitive pressure to Elevenlabs.\nEleven labs may be a company or project that also works in the field of speech synthesis.\nOverall, this news may be good news for those interested in AI-based speech synthesis, as there are now more open-source resources to leverage and learn from.",
+    "category": "Text-to-speech",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Soundstorm.png"
+  },
+  {
+    "title": "Mindsera",
+    "description": "Mindsera is an AI-powered journal that offers personalized mentorship and feedback to enhance your mindset, cognitive skills, mental health, and fitness.\nFeatures: \n50+ frameworks for decision-making, problem-solving, and productivity.\nWriting prompts based on actionable frameworks and mental models for better questioning and answers.\nClean design, smart highlights, habit tracking, and dark mode for a distraction-free journaling environment.\nNew ‘Infinite Prompts’ feature generates relevant prompts to facilitate deeper thinking during journaling.\nAI mentor feature with historical figures and personalized advisors.",
+    "category": "Life Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Mindsera-1.png"
+  },
+  {
+    "title": "Chatbase",
+    "description": "Chatbase is a platform that enables you to train ChatGPT on your data and integrate a chat widget into your website.\nFeatures: \nIt allows you to upload documents (.pdf, .txt, .doc, .docx) or paste text to create a chatbot.\nYou can also add a link to your website to have the content scraped and used by the chatbot.\nThe resulting chatbot will be similar to ChatGPT and can answer questions related to the uploaded or scraped content.\nYou have the option to add the chatbot as a widget on your website or interact with it through the API.",
+    "category": "ChatBots",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/ChatBase-1.png"
+  },
+  {
+    "title": "Pimeyes AI",
+    "description": "Face Search Engine – Find anyone from the internet with this image search AI.\nFeatures: \nFind a face and check where the image appears online.\nFacial recognition online system allows you to search by image.\nUsing the latest technologies, artificial intelligence and machine learning, it helps you find your pictures on the Internet and defend yourself from scammers, identity thieves, or people who use your image illegally.",
+    "category": "Search Engine",
+    "tags": [
+      " Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Pimeyes.png"
+  },
+  {
+    "title": "Speechify",
+    "description": "Listening is a better way to read.\nFeatures: \nOur high-quality AI voices can read up to 9x faster than the average reading speed, so you can learn even more in less time.\nExperience the magic of stories and bring your favorite books to life with high-quality book narration.\nTake your reading wherever you go – to the gym, the park, or the couch.\nNatural-sounding human voices.\nUse the app to snap a pic of a page in any page and hear it read out loud to you.\nListen and learn without limits. Breeze through any text, anywhere, anytime.",
+    "category": "Productivity",
+    "tags": [
+      " Free# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Speechify.png"
+  },
+  {
+    "title": "Boost 2.0",
+    "description": "“Boosts 2.0”, which allows you to freely customize the look of any website on the internet.\nFeatures: \nChange the background color of the site you want.\nChoose the font you want.\nDark/light mode.\nAnd the best feature: you can delete any component you don’t want on a site.\nAbility to write custom css codes.\nAbility to write js code\nAnd much more.",
+    "category": "Fun Tools",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Boost.png"
+  },
+  {
+    "title": "Hebbia AI",
+    "description": "Hebbia can index anything — scanned PDFs, PowerPoints, spreadsheets, transcripts — and instantly spin up an expert search engine that pinpoints answers to your most complex questions.\nFeatures: \nMake decisions 10x more accurately and quickly with LLM-powered search and AI insights.\nFind all the answers, even those that people might miss.\nGoogle has indexed only 4% of the world’s information. We are focused on private data, the other 96%.Hebbia mission to transform how humans surface and acquire knowledge.",
+    "category": "Search Engine",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Hebbia.png"
+  },
+  {
+    "title": "Photoshop AI",
+    "description": "Edit and Generate awesome images just with text prompts using AI.\nFeatures: \nIt can effortlessly combine two images.\nIt adds new things.\nIt effortlessly reveals wider angles.\nGenerate amazing backgrounds with words\nNew Generative AI VS old Content-Aware Fill: The new one produces superior results.",
+    "category": "Image Editing",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/remove-o.png"
+  },
+  {
+    "title": "WarpSound",
+    "description": "Create high-quality generative AI music in seconds with just prompts.\nFeatures: \n",
+    "category": "Music",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/wrapsound.png"
+  },
+  {
+    "title": "PrivateGPT",
+    "description": "Your offline personal AI Assistant. 100% Privacy and Secure.\nFeatures: \nIngestion time improved 500x.\n2 document formats supported (pdf, docx, epub, md…)",
+    "category": "ChatBots",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/PrivateGPT.png"
+  },
+  {
+    "title": "Prompt Perfect",
+    "description": "Craft the perfect prompt every time to get the best output from ChatGPT.\nFeatures: \nThe first and only prompt optimizer that can automatically optimize your prompt for any Al model.\nOptimize your prompt for ChatGPT, GPT-3/3.5/4, DALL-E 2, Stable Diffusion and MidJourney.\nCustomize your prompt optimization towards your needs, e.g. faster optimization, shorter prompt, and more.\nGet the optimized prompt in 10 seconds or less.\nYour prompt does not have to be in English. You can optimize your prompt in any language.",
+    "category": "Resources",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/PPP.png"
+  },
+  {
+    "title": "Diagram",
+    "description": "Be more creative with the collections of generative design tools.\nFeatures: \nAutomate your Figma tasks in one click.\nA magical design tool powered by AI.\nYour AI design companion.\nPowerful prototyping with code in Figma.\nRun Design Experiments\nTwitter\nMail",
+    "category": "Design",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Diagram.png"
+  },
+  {
+    "title": "Bardeen AI",
+    "description": "Automate manual work with one click! Connect 30+ apps, scrape the web, and boost your productivity.\nFeatures: \nScrape any website in minutes.\nYou no longer need to know how to build complicated automations or spend hours creating them. Bardeen.ai will automatically generate custom automation for you.\nFrom email, blog articles to videos, connect with your favorite generative AI tools with Bardeen.ai and automate your content creation process. Or integrate with OpenAI via Bardeen.ai for writing or summarizing.\nPick from 300+ pre-built automations. One-click to activate.\nWith our no-code automation builder, you can connect your favorite apps and complete your manual work in a snap! Simply add actions on a canvas to create custom automation.",
+    "category": "Automation",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Bardeen-AI.png"
+  },
+  {
+    "title": "Pragma",
+    "description": "Pragma is an AI tool that offers a knowledge assistant to organizations for accelerating knowledge discovery and sharing.\nFeatures: \nSeamless integration with popular platforms like Google Drive, Notion, Intercom, and Salesforce.\nQuick access to auto-suggested answers in Slack, Chrome Extension, and Gmail.\nInstant responses for customer inquiries through a chat interface.\nEfficient FAQ management for learning and best practices.\nSecure integrations with personalized privacy options for team collaboration.\nRegular updates and validated knowledge for improved productivity.",
+    "category": "Productivity",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/pragma.png"
+  },
+  {
+    "title": "Metavoice AI",
+    "description": "Customize your online identity with studio-quality AI voiceovers & real-time AI voice changing.\nFeatures: \nLive changes your voice in real-time, while preserving human emotion.\nMetaVoice uses AI to change voice identity in real-time while preserving human emotion.\nSpeak as you normally would. Be heard in real-time. Ultra-low-latency, on-device tech in our ‘Live’ app allows you to communicate with zero friction.",
+    "category": "Audio",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Metavoice.png"
+  },
+  {
+    "title": "AI Lawyer",
+    "description": "Personal AI lawyer at your fingertips.\nFeatures: \nInstant legal help: Ask any question you want and we’ll be happy to assist you.\n650+ prompts library on various legal topics.\nDrafting legal documents: Create any legal agreement in one minute without legal expertise.\nDocuments review: Get an easy-to-understand summary of any agreement.\nDocuments comparison: Compare different agreements and see the differences between them.\nAI Lawyer can provide access to legal information and help without hassle. It can also help simplify legal language and provide a better understanding of complex legal issues.\nAI Lawyer can help streamline research and provide suggestions for legal strategies. It can also save time and increase efficiency, allowing lawyers to focus on higher-level tasks and improve client satisfaction.\nAI Lawyer can provide an opportunity to learn and practice legal research and analysis skills. It can also provide insight into current legal trends and issues, helping to prepare students for a career in law.",
+    "category": "Legal Assistant",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/AI-Lawyer.png"
+  },
+  {
+    "title": "ThumbnailAi",
+    "description": "Generate clickable and colorful youtube video thumbnails in just one click.\nFeatures: \n",
+    "category": "Content Creation",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/thumbnailmaker.png"
+  },
+  {
+    "title": "Gencraft",
+    "description": "Gencraft is an AI-powered platform that enables users to generate unique videos and artwork by providing prompts or keywords.\nFeatures: \nBring Ideas to Life: Transform a few words into stunning AI-generated art, including photos and videos.\nQuick and Easy: Generate your first artwork in 30 seconds or less.\nFuel Imagination: Overcome writer’s block by using Gencraft to visualize new ideas based on inspiring keywords.\nShowcase Creative Brand: Create content that represents your brand and find your unique voice.\nDownload and Share: Download your creations and share them with the world.\nAccessible Across Devices: Available on Web, iOS, and Android platforms.",
+    "category": "Image Generator",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/gencraft.png"
+  },
+  {
+    "title": "Build AI",
+    "description": "Build your own AI-powered web apps tailored to your business with any code.\nFeatures: \nDescribe what you want the AI App to do for your business\nTest and tune the generated AI App as needed\nShare a link to your AI web app or use it internally\nCustomer Experience AI: Embrace AI powerups and make your customers feel like you are there – the expert of your business but on steroids.\nLead Generation AI: Be one of the first to create amazing experiences that captivate your potential customers in a new and unique way.\nInternal Tools AI: Bring your team’s productivity to a whole new level with AI tools that leverage your expertise and help you make sure everyone is on the same page.",
+    "category": "Build AI",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/build-AI.png"
+  },
+  {
+    "title": "Glasp",
+    "description": "AI-powered Writing and Website Note-taking for Newsletter Writers 📨\nFeatures: \nHighlight & Add Notes ✍️\nCreate weekly best reads, write the next paragraph, get some ideas, and more!\nPaste into Note Apps 💎\nFollow like-minded people and see their highlights and notes. It’s so much fun ✨",
+    "category": "Writing",
+    "tags": [],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/glasp.png"
+  },
+  {
+    "title": "StableStudio",
+    "description": "StableStudio is Stability AI’s open-source version of DreamStudio, a text-to-image consumer application.\nFeatures: \nText-to-Image Generation: Generate images based on user-provided text descriptions.\nWeb-Based Interface: Access StableStudio conveniently through a web browser, eliminating the need for additional software installations\nModel Selection: Choose from a range of AI models for image generation.\nCollaboration and Sharing: Collaborate, share creations, and work together on projects within StableStudio.\nVersion Control: Track changes, revert to previous versions and collaborate on different iterations.\nIntegration with External Tools: Integrate with external tools and libraries for additional resources and functionality.\nChat Interface (Upcoming): Planned release of a chat interface for exploring generative AI capabilities.",
+    "category": "Image Generator",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Screenshot-2023-05-22-163628.png"
+  },
+  {
+    "title": "Dora AI",
+    "description": "Design and publish 3D and animated sites with just plain text.\nFeatures: \nCreate fully editable, award-winning websites from just a line of text.\nWith our 3D interaction generator, you can transform static designs to an immersive experience.\nAutomate the animation process and skip the hours of manual work.",
+    "category": "Startup Tools",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/dora.png"
+  },
+  {
+    "title": "ChatGPT for iOS",
+    "description": "Free app that brings ChatGPT to iOS devices\nFeatures: \nSyncs conversation history across devices\nSupports voice input using Whisper speech-recognition system\nInstant answers without ads or multiple search results\nTailored advice on various topics\nChatGPT Plus subscribers get access to GPT-4 capabilities, early feature access, and faster response times",
+    "category": "ChatBots",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Screenshot_20230520-211812.png"
+  },
+  {
+    "title": "Mind-Video",
+    "description": "Thought-to-Video with Stable Diffusion.\nFeatures: \nStage A uses Sparse: Coding Masked Brain Modeling (SC-MBM) on a large brain scan dataset.\nStage B applies a Double: Conditioned Latent Diffusion Model (DC-LDM) to generate images from brain recordings.",
+    "category": "Fun Tools",
+    "tags": [],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/mind-video.png"
+  },
+  {
+    "title": "Dropchat",
+    "description": "Instantly chat with any book, PDF, website by searching using title, author, or ISBN number.\nFeatures: \nCustom File Chat: Chat with any file type: PDF, YouTube video, websites, and more.\nNo credit card or login required.\nIts easy-to-use interface makes it a lot more likable.",
+    "category": "Educational",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Dropchat.png"
+  },
+  {
+    "title": "Poe",
+    "description": "Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots.\nFeatures: \nEasy to use: Like chatting with a friend.\nInstant helpful reply.\nAsk about any topic you want.",
+    "category": "Resources",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/poe.png"
+  },
+  {
+    "title": "Boxy",
+    "description": "AI Background Replacement for Professional product photos. Say goodbye to photo shooting.\nFeatures: \nIt instantly generates really good quality backgrounds for products.\n20 Images for free.\nbuild for all industries.\nJust upload your product image and write what you want for the background.\nEasy to use, great user experience.",
+    "category": "Image Editing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Mokker.png"
+  },
+  {
+    "title": "Parthean AI",
+    "description": "Parthean is an AI-powered financial coach that offers tools, modules, and coaching tips to help you optimize your spending, investing, credit, savings, and more.\nFeatures: \nPersonalized financial information based on your specific financial data\nCustomized financial plans tailored to your budget and goals\nTransparent explanations of answers with breakdowns and citations\nSeamless integration with Parthean’s budgeting, investing, and credit management tools\nStrong emphasis on trust and safety through bank-level security, anonymized data processing, financial education focus, and human expert review for accuracy.",
+    "category": "Finance",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Screenshot-2023-05-20-225811.png"
+  },
+  {
+    "title": "Canva Text to Image",
+    "description": "The latest technology that has been developed is a cutting-edge image generation tool that uses artificial intelligence to create images based on descriptions provided by the user.\nFeatures: \nCurved text generator.\nPhoto effects.\nImage enhancer.\nAdd frames to photos.\nAdd text to photos.\nOnline video recorder.\nVideo trimmer.\nConvert videos to MP4.",
+    "category": "Image Generator",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.canva_.com-2023.05.09-10_41_23.png"
+  },
+  {
+    "title": "Palette",
+    "description": "Palette is an online tool designed to add color to black-and-white or grayscale pictures. It utilizes an automated process to apply colors to the image and does not require any sign-up or registration.\nFeatures: \nSupports image resolution up to 4K and video frames up to 4K resolution.\nMaximum image file size of 10MB per image.\nWide range of supported image formats, including popular formats like JPEG, PNG, GIF, TIFF, and more.\nVarious colorization guidance options: automated prompts, custom prompts, and reference images.\nApp Integration for integrating Palette into iPhone photos, Google Drive, or other photo apps.\nAPI availability for developing new apps or enhancing existing products with powerful colorization features",
+    "category": "Image Editing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Screenshot-2023-05-20-204546.png"
+  },
+  {
+    "title": "Steno",
+    "description": "Easily extract insights from podcast & video content.\nFeatures: \nSteno has a growing proprietary dataset with 49 million hours of content and hundreds of thousands of transcripts\nYour favorite podcasts, fully transcribed Discover, reference, and read along as you listen.\nChapter based podcast summaries that provide an overview of the episode, along with key insights into themes, topics, people, or trends discussed\nSearch for brands, people, topics, and products — find every mention of any keyword with just a few clicks\nHave endless conversations with our chatbot — talk to your favorite humans and learn all about your favorite topics\nTwitter",
+    "category": "Productivity",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Steno-1.png"
+  },
+  {
+    "title": "Muzify AI",
+    "description": "FROM BOOKS TO PLAYLIST\nFeatures: \nTwitter\nInstagram",
+    "category": "Fun Tools",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Muzify.png"
+  },
+  {
+    "title": "Microsoft 365 Copilot",
+    "description": "Microsoft 365 Copilot is a new tool that leverages large language models (LLMs) and data from Microsoft Graph and 365 apps to transform your words into an ultra-productive tool. Integrated into Microsoft 365, it works seamlessly alongside you in apps like Word, Excel, PowerPoint, Outlook, and Teams to enhance your creativity, productivity, and skills.\nFeatures: \n",
+    "category": "Productivity",
+    "tags": [
+      " Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Microsoft-Copilot.png"
+  },
+  {
+    "title": "Superflow",
+    "description": "Generate quick email summaries and pre-generated replies written in your voice.\nFeatures: \nSuperflows write email replies in your tone of voice so can reply to your customers and team faster\nSuperflows write personalized 1-click replies with customizable information\nSuperflows learn to match your writing style in replies and newly composed emails",
+    "category": "Email Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Superflow.png"
+  },
+  {
+    "title": "LeiaPix",
+    "description": "Get a 3d effect on any of your 2d images.\nFeatures: \n",
+    "category": "Image Editing",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/leia-pix.png"
+  },
+  {
+    "title": "Kickresume",
+    "description": "Your success story begins with a resume.\nFeatures: \nPick a resume template. Make it more you.\nGet inspired by real resume examples.\nLearn from successful resume examples.\nCustomizable resume templates for any profession.",
+    "category": "Career",
+    "tags": [
+      " Free# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/RESUME.png"
+  },
+  {
+    "title": "Eightlify",
+    "description": "GPT-4 will summarize or extract key insights from any Youtube videos in seconds.\nFeatures: \n",
+    "category": "Productivity",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/eightify.png"
+  },
+  {
+    "title": "FormulasHQ",
+    "description": "Describe your calculation and let AI generate an Excel or Google Sheets formula.\nFeatures: \nDescribe your desired calculation in simple terms, and our AI will generate the corresponding Excel or Google Sheets formula, making it easy to perform complex calculations without manual formula writing.\nSpecify your required automation or function in plain language, and our AI will automatically generate the relevant VBA or Apps Script, streamlining your programming tasks.\nInput a description of the pattern you want to match, and our AI will create the appropriate regex expression, simplifying the process of crafting complex regular expressions.",
+    "category": "Productivity",
+    "tags": [
+      " Free# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/06/Formulas-HQ.png"
+  },
+  {
+    "title": "FormX",
+    "description": "FormX is a data extraction tool that uses artificial intelligence (AI) to transform information from physical documents into structured digital data.\nFeatures: \nFormX already includes preconfigured data extraction models on general shopping receipts, identity cards, and most of official licenses. You can readily extract data with just a click!\nExtract Business Data From Official Documents\nImprove Redemption Program Using Shopping Receipts",
+    "category": "Automation",
+    "tags": [
+      " Free# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/formX.png"
+  },
+  {
+    "title": "Levity",
+    "description": "Powerful AI that takes care of your daily tasks. Stop manually processing your text, document, and image data. Let AI work its magic, without a single line of code.\nFeatures: \nAutomate your email outreach responses\nKeep your inbox organized and actionable\nStop wasting hours on manual analyses of your survey responses. Let Levity learn your customers’ language. Detect positive, and negative answers, understand their feedback, and filter for urgency.\nLet Levity categorize your emails and remove dozens of hours of work from your shoulders.\nLevity’s smart tagging engine automatically analyzes product images and classifies them into the categories you need\nYour customers are telling you what they want from your brand. Levity helps you cut through the noise and prioritize insights – automatically.",
+    "category": "Automation",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/levity.png"
+  },
+  {
+    "title": "AI Resource Finder Tool",
+    "description": "Find the Best Artificial Intelligence resources to learn from in seconds\nFeatures: \nTwitter",
+    "category": "Resources",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/AI-ResourceFinder.png"
+  },
+  {
+    "title": "Tome",
+    "description": "Build a powerful story with any type of content.\nFeatures: \nGenerate narratives with one click using prompts.\nTurn any artifact into a presentation or summarize long-format content.\nRefine your story with AI-powered text and image editing.\nAccess and embed diverse content in one central location.",
+    "category": "Presentations",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-tome.app-2023.05.11-10_17_15.png"
+  },
+  {
+    "title": "Codeium",
+    "description": "A Free AI-Powered Toolkit for Developers.\nFeatures: \nCompatible with 20+ programming languages and integrates with popular IDEs.\nSaves time by reducing boilerplate coding, generating unit tests, and finding and using APIs.\nAllows developers to type comments in natural language for code completion.\nTrusted by top companies including Adobe, Dropbox, IBM, Pinterest, Salesforce, and Tesla.\nCompletely free to use, just install the Codeium Extension.",
+    "category": "Code Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/dasdewrwe.png"
+  },
+  {
+    "title": "Runwayml",
+    "description": "Next-generation video generation using AI for creators.\nFeatures: \nGenerate Videos\nGenerate Images\nInfinitely Expand Images\nReimagine Any Image\nTrain Custom Models\nErase Things from Videos\nSlow Mo Any Video\nMake Images Move\nRemove Any Background",
+    "category": "Video Editing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Runway.png"
+  },
+  {
+    "title": "Paperade",
+    "description": "AI tool leveraging millions of research studies for actionable insights on business and market opportunities.\nFeatures: \nAcademic research insights\nInnovative idea generation\nAdvanced tech understanding\nFree platform access\nTwitter\nLinkedIn",
+    "category": "Startup Tools",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/fdsfdsfre.png"
+  },
+  {
+    "title": "Adobe Firefly",
+    "description": "Adobe Firefly AI Art Generator is a solution designed to assist creators in generating images, vectors, videos, and 3D designs using text and generative AI.\nFeatures: \nGenerative AI: Swiftly create content using everyday language and various input methods\nUnlimited creation possibilities: Craft custom vectors, brushes, textures, and more from text, drawings, or mood boards\nVideo modification: Streamline video editing and instantly alter ambiance, atmosphere, or weather conditions\nPromotional content: Produce distinctive posters, banners, and social media content from a single text line\n3D manipulation: Turn basic compositions into lifelike images and develop new styles and variations for 3D objects\nTwitter",
+    "category": "Image Generator",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.adobe_.com-2023.05.17-21_24_41.png"
+  },
+  {
+    "title": "AIdeaMap",
+    "description": "Your AI Assistant for Interactive Idea Mapping.\nFeatures: \nRemembering things\nLearning complex things instantly\nDigital storytelling\nPresentation\nTeaching complex things to others\nAnd much more.",
+    "category": "Life Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/ghjghjyuuy.png"
+  },
+  {
+    "title": "Uizard Autodesigner",
+    "description": "Use simple text to generate multi screen mockups for apps and websites\nFeatures: \nAI-generated designs\nEditable & customizable layouts\nIntuitive drag-and-drop interface\nReal-time team collaboration\nSeamless integration with Uizard’s AI tools\nTwitter",
+    "category": "Design",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/dewewrewrere.png"
+  },
+  {
+    "title": "Talk To Books",
+    "description": "Explore books with AI.\nFeatures: \n",
+    "category": "Educational",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/3.png"
+  },
+  {
+    "title": "Grammarly",
+    "description": "Grammarly is an AI-based writing tool that helps users enhance their writing abilities.\nFeatures: \nReal-time feedback on writing\nIntegration with 500,000+ apps and websites\nSuitable for individuals, teams, businesses, and educational institutions",
+    "category": "Writing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.grammarly.com-2023.05.13-22_57_48.png"
+  },
+  {
+    "title": "MusicLM",
+    "description": "Generate high-quality music from your text description. By Google.\nFeatures: \n",
+    "category": "Text-to-speech",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/google-musicml.png"
+  },
+  {
+    "title": "StockImg AI",
+    "description": "StockImg AI is an AI-powered design service for various visual content like logos, images, posters, book covers, and more.\nFeatures: \nAccess to a wide range of design categories for various projects\nUser-friendly interface for quick and easy image generation\nFree trial and preview of AI-generated images\nActive social media presence for news and support\nCreate logos, book covers, posters, wallpapers, illustrations, icons, and UI designs\nVersatile tool for branding, marketing, publishing, and digital projects",
+    "category": "Image Generator",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/stock.png"
+  },
+  {
+    "title": "IngestAI",
+    "description": "IngestAI Assistant is a tool that enables users to convert their knowledge base into a chatbot-like assistant compatible with Slack, Discord, WhatsApp, Telegram, and more.\nFeatures: \nQuick setup without coding or technical skills required\nWide compatibility with various knowledge base file formats\nWork with diverse Generative AI models: GPT-3.5 Turbo, GPT-4, Cohere, Stability AI, DALL-E.\nAI-generated accurate answers to user questions\nCustomizable chatbot to align with specific needs",
+    "category": "Productivity",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/ingest.png"
+  },
+  {
+    "title": "Magic Studio",
+    "description": "Enhance visuals effortlessly with AI editing tools.\nFeatures: \nQuick and easy removal of unwanted elements from images\nUser-friendly interface for effortless image enhancement\nSupports JPEG and PNG formats\nMultiple use cases in real estate, fashion, and social media\nMagic Studio API for integrating Magic Eraser features into other applications\nFree to use with optional pricing plans for additional features",
+    "category": "Image Editing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Magic-Studio.png"
+  },
+  {
+    "title": "MidJourney Prompt Helper",
+    "description": "Visual exploration tool for styles and complex MJ prompts.\nFeatures: \nOpen-source tool for visual exploration of styles and complex MidJourney prompts\nSimplifies the process of exploring various styles and complex prompts\nEnables users to experiment with different visual elements and prompts\nFacilitates creativity and experimentation in a user-friendly manner",
+    "category": "Prompt Tool",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/mj.png"
+  },
+  {
+    "title": "HoppyCopy",
+    "description": "Hoppy Copy: AI-powered email marketing copywriting platform for time-saving and conversion-boosting purposes.\nFeatures: \ngenerates powerful copy for email campaigns and marketing content\ntweaks and improves content for optimal results\nkeeps track of competitors’ strategies\nensures emails avoid spam filters and increase open rates\nIdeal for marketers, content creators, and businesses\nYouTube\nTwitter",
+    "category": "Email Assistant",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/hoppy.png"
+  },
+  {
+    "title": "Adcreative.ai",
+    "description": "Create high-converting ads and social media posts effortlessly\nFeatures: \nGenerate ad creatives quickly for marketers, startups, e-commerce stores, and agencies\nAI-driven insights and text generator AI for identifying top-performing creatives\nIntegration with popular platforms like Google, Facebook, ADYOUNEED, and Zapier\nCollaboration features allowing up to 25 users to work simultaneously\nImprove marketing campaigns with conversion-focused creatives\nTwitter\nYouTube",
+    "category": "Social Media Assistant",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/ad.png"
+  },
+  {
+    "title": "Mubert",
+    "description": "AI-generated music for streaming, videos, p/odcasts, and commercial use\nFeatures: \nMubert Render: Customizable soundtracks based on content mood, duration, and tempo\nMubert Studio: Platform for artists to earn money from tracks, samples, and loops\nMubert API: Royalty-free music for developers and brands\nMubert Play: Personalized music experiences for various occasions and moments\nTwitter\nLinkedIn\nInstagram\nFacebook",
+    "category": "Text-to-speech",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/mubert.png"
+  },
+  {
+    "title": "Kraftful",
+    "description": "Save hundreds of hours with our AI summaries of user feedback.\nFeatures: \nSave hundreds of hours analyzing feedback with our GPT-4 powered solution to uncover user needs\nChat with your user data to quickly answer the questions that matter, write Jira tickets, PRDs and more\nBuild to-do lists to share with your team, export insights to your product roadmap\nTwitter",
+    "category": "Startup Tools",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Kraftful.png"
+  },
+  {
+    "title": "PaperBrain",
+    "description": "A platform for you to access and understand research papers.\nFeatures: \nAccess and understand research papers easily\nProvides paper abstracts and direct PDF links for convenience\nEliminates the hassle of tedious downloads\nBuilt-in GPT assistant to assist and guide users throughout the process.\nTwitter\nGitHub",
+    "category": "Research",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Screenshot-2023-05-17-144131.png"
+  },
+  {
+    "title": "Caktus",
+    "description": "A study toolkit to GROW your mind.\nFeatures: \nAI-driven academic tools: Essay, Paragraph, Questions\nContent creation: Personal Statements, Video-to-Essay, Summaries\nCoding assistance: Python, Java, C#, Javascript, Go\nCareer support: Cover Letters, Resume Pointers\nCaktus Scholarships: Educational Enhancement",
+    "category": "Life Assistant",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/adasdeww.png"
+  },
+  {
+    "title": "Magical",
+    "description": "Automate meetings, scheduling, and notes using AI.\nFeatures: \nIntegrations with popular conferencing tools (Zoom, Google Meet) and applications (Notion, etc.)\nAdvanced AI technology for suggesting meeting times, generating agendas, and automating summaries and follow-ups\nAll-in-one meeting hub for managing meetings, agendas, and notes directly from browser tabs\nCustomization options for meeting preferences and personalized scheduling links\nAccessible via key commands and compatible with all browsers\nDesigned for busy professionals, team leads, and individuals seeking streamlined meeting management\nEnhances scheduling efficiency and improves the overall meeting experience.\nTwitter\nLinkedIn\nYouTube",
+    "category": "Productivity",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/magical.png"
+  },
+  {
+    "title": "Midjourney",
+    "description": "The best text-to-image generation AI tool.\nFeatures: \nExpert team: Consisting of seasoned professionals, advisors, and researchers from prestigious organizations.\nMultidisciplinary approach: Combining design, human infrastructure, and AI to push the boundaries of new thought mediums.\nCreative project range: Showcasing a diverse portfolio encompassing realistic cityscapes, abstract art, and immersive virtual reality experiences.\nTwitter",
+    "category": "Image Generator",
+    "tags": [
+      " Freemium# Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.midjourney.com-2023.05.15-02_08_28.png"
+  },
+  {
+    "title": "NightCafe Studio",
+    "description": "NightCafe Creator: Unleash your creativity with an AI-driven art generator app, effortlessly crafting breathtaking artworks.\nFeatures: \nDiverse AI art methods: Utilize neural style transfer, text-to-image AI, and style mixing for creating unique artworks.\nFree access: Generate, modify, and download up to 28 artworks per day for free on web, Android, and iOS platforms.\nAdvanced tools for power users: Enjoy features like bulk creation, bulk download, duplication, evolution, and upscaling.\nEngaging community: Interact within the NightCafe community by sharing, browsing, liking, and commenting on creations.",
+    "category": "Art",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-creator.nightcafe.studio-2023.05.15-02_02_40.png"
+  },
+  {
+    "title": "Playground AI",
+    "description": "Embrace the power of free AI image creation for creators.\nFeatures: \nAI-driven algorithms: Generate diverse image styles from text prompts, including analog, pltn, geo2099, retrofuturism, olpntng, and water Genasi.\nHigh-quality results: Enjoy detailed, photorealistic images with dynamic lighting and volumetric effects.\nCustomization options: Fine-tune images to achieve a unique look, with support for 4K and 8K resolution.\nPlatform compatibility: Seamlessly integrate with Unreal Engine, Octane Render, and Studio Ghibli for a streamlined workflow.\nTwitter",
+    "category": "Image Generator",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-playgroundai.com-2023.05.15-01_55_39.png"
+  },
+  {
+    "title": "Fy! Studio",
+    "description": "Fy! Studio: Unleash your creativity with an AI-driven platform for crafting one-of-a-kind artwork.\nFeatures: \nAI-generated art: Explore a collection of AI-generated pieces or customize your own images.\nPersonalization options: Add personal touches to make your artwork truly unique.\nUser-friendly interface: Create AI-generated art without needing to understand complex AI or machine learning concepts.\nFacebook\nInstagram\nTikTok\nPinterest",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.iamfy_.co-2023.05.15-01_48_40.png"
+  },
+  {
+    "title": "Pixelicious",
+    "description": "Pixelicious: Effortlessly convert images into stunning pixel art with our online converter.\nFeatures: \nEasy conversion: Simply upload an image and choose the desired level of pixelation for effortless conversion.\nAutomatic transformation: Watch as your images are magically transformed into captivating retro-style pixel art.\nDownloadable pixel art: Utilize the generated pixel art for game development and other creative projects.",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.pixelicious.xyz-2023.05.15-01_38_46.png"
+  },
+  {
+    "title": "PlayArti",
+    "description": "PlayARTi: Streamline the process of digital artwork creation with the assistance of AI technology\nFeatures: \nAdvanced algorithms: Create one-of-a-kind artwork from images, photos, and videos using powerful algorithms.\nCustomization options: Personalize your creations by choosing colors, shapes, and textures to suit your preferences.\nVersatile applications: Utilize the generated artwork for website designs, logos, and various digital art projects.",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.playarti.com-2023.05.15-01_30_55.png"
+  },
+  {
+    "title": "Civitai",
+    "description": "Civitai: The AI art community’s free, open-source model-sharing hub.\nFeatures: \nTwitter\nGitHub",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-civitai.com-2023.05.15-01_22_14.png"
+  },
+  {
+    "title": "Ebsynth",
+    "description": "EbSynth is a cutting-edge video editing tool that utilizes artificial intelligence to revolutionize the process of transforming footage through the technique of painting over a single frame.\nFeatures: \nEfficient editing: Seamlessly transfer painted artwork to videos of any length.\nAutomatic propagation: The tool intelligently applies the painted frame across the entire video automatically.\nFree and accessible: Enjoy the benefits of EbSynth as a free downloadable tool, with regular updates and upcoming releases.\nTwitter\nInstagram\nFacebook",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-ebsynth.com-2023.05.15-01_08_46.png"
+  },
+  {
+    "title": "InstantArt.io",
+    "description": "InstantArt is a stable diffusion AI tool that can produce original art instantly and without limits. It is available for free use.\nFeatures: \n25+ models for various art styles and types\nPhotorealistic 4k renders and detailed 3D environments\nAdvanced lighting features like Rembrandt light and global illumination\n8k resolution for portraits, illustrations, and art pieces",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-instantart.io-2023.05.14-23_08_04.png"
+  },
+  {
+    "title": "ArtHub",
+    "description": "AI art created by the community. Explore designs, images, art & prompts.\nFeatures: \n",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-arthub.ai-2023.05.14-23_02_12.png"
+  },
+  {
+    "title": "Dreamlike.art",
+    "description": "Dreamlike Tech Ltd.’s AI Art Generator is a comprehensive art creation suite that uses AI to produce stunning and unique images.\nFeatures: \nAI Art Generator by Dreamlike Tech Ltd.\nVersatile tools: upscaling, face fix, text to image, image to image, and variations.\nDiffusion options: photorealistic, openjourney, modern animation, and anime diffusion.\nCommunity challenges for user engagement and content management.\nFree and accessible with no credit card required and available from any browser.\nTwitter",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-dreamlike.art-2023.05.14-22_53_30.png"
+  },
+  {
+    "title": "Lexica",
+    "description": "Lexica is a search engine/image generator designed to provide accurate results.\nFeatures: \n",
+    "category": "Art",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-lexica.art-2023.05.14-22_45_42.png"
+  },
+  {
+    "title": "AI Art Apps Database",
+    "description": "AI Art resources, tools & inspiration for designers & engineers.\nFeatures: \nInstagram\nMail",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.aiartapps.com-2023.05.14-22_42_08.png"
+  },
+  {
+    "title": "Mage",
+    "description": "Mage is a free, rapid, and unadulterated diffusion tool powered by AI that’s been specifically designed for creative content generation.\nFeatures: \nMage offers a variety of AI models for different types of content, including photorealism, art, 3D art, NSFW, and fantasy.\nThe tool’s customizable settings allow users to adjust aspects like aspect ratio, steps, guidance scale, seed, negative prompt, and privacy.\nMemberships provide access to over 20 AI models, offering enhanced creative possibilities.",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.mage_.space-2023.05.14-22_37_35.png"
+  },
+  {
+    "title": "Artflow ai",
+    "description": "Artflow.ai is an AI-driven tool that empowers users to bring their stories to life by creating personalized avatars.\nFeatures: \nArtflow.ai enables users to create custom avatars, scenes, and voices from text and write unique dialogues.\nUsers have access to a vast asset library of user-generated content, including premade characters and scenes.\nThe platform supports non-English descriptions for diverse creations.\nArtflow.ai provides an API for content generation and offers real-time feedback on creations.\nUsers can connect with others through a Discord community, tutorials, and FAQs.\nTwitter\nFacebook\nInstagram",
+    "category": "Art",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/Artflow.png"
+  },
+  {
+    "title": "Vana Portrait",
+    "description": "Create a unique self-portrait.\nFeatures: \nInstagram\nMail",
+    "category": "Art",
+    "tags": [
+      " Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-portrait.vana_.com-2023.05.14-22_11_15.png"
+  },
+  {
+    "title": "Dream Up (Deviant Art)",
+    "description": "DreamUp™ by DeviantArt is an AI-powered art generator that prioritizes safety and fairness in the creation of AI-generated art.\nFeatures: \nDeviantArt DreamUp™ provides creator control over the usage, training, and credit related to their art and style.\nThe platform upscales all images to high resolutions for better quality.\nUsers can customize prompts to re-run or adjust for varied results.\nAI-generated images are automatically tagged for easy browsing and filtering.",
+    "category": "Art",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.dreamup.com-2023.05.14-22_07_43.png"
+  },
+  {
+    "title": "Astria",
+    "description": "Astria is a platform that uses AI to generate images, making it simple and fast to create personalized visuals.\nFeatures: \nAstria offers versatile image creation capabilities, including video production, product shots, and concept art.\nThe platform provides visual references to help teams collaborate more effectively.\nAI-assisted image generation enables users to realize specific concepts more easily.\nAstria offers a range of resources and API access, including how-to guides, examples, FAQs, and a PROs corner.\nTwitter\nMail",
+    "category": "Art",
+    "tags": [
+      " Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.astria.ai-2023.05.14-22_03_10.png"
+  },
+  {
+    "title": "Monica",
+    "description": "Monica is a chat assistant powered by AI that provides various services, such as chat support and help with copywriting.\nFeatures: \nChatGPT API allows users to chat with Monica for support on any topic, from any location.\nOver 80 copywriting templates are available to help users create web copy with ease.\nMonica can explain, translate, or rephrase selected text on web pages to improve understanding.\nThe Chrome extension allows users to access Monica’s services while browsing any website.",
+    "category": "Productivity",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-monica.im-2023.05.14-02_47_45.png"
+  },
+  {
+    "title": "GPT3 Playground",
+    "description": "OpenAI’s GPT3 Playground\nFeatures: \n",
+    "category": "Productivity",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-platform.openai.com-2023.05.14-02_42_56.png"
+  },
+  {
+    "title": "Glasp",
+    "description": "Glasp is a digital tool that utilizes artificial intelligence to assist users in selecting, categorizing, and sharing quotes, thoughts, and ideas from online sources.\nFeatures: \nGlasp allows users to effortlessly save snippets of information from the web.\nIt offers the ability to create personalized AI models from curated highlights.\nThe tool enables users to connect with others, access shared resources, and discover interesting content.\nUsers can share highlights, notes, and resources with friends and the community through the Wall of Love feature.\nTwitter\nYouTube\nLinkedIn",
+    "category": "Writing",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-glasp.co-2023.05.14-02_39_26.png"
+  },
+  {
+    "title": "Analogenie",
+    "description": "Analogenie is an analogy generator that utilizes artificial intelligence to improve the quality of different forms of writing.\nFeatures: \nAnalogenie generates complete analogies based on user input for engaging and effective writing.\nThe tool is versatile and suitable for different types of writing, including creative, academic, and business writing.\nIt supports generating analogies in English.\nAnalogenie offers flexible pricing and a free trial for users to try out the tool.\nTwitter\nLinkedIn",
+    "category": "Writing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-analogenie.com-2023.05.14-02_33_00.png"
+  },
+  {
+    "title": "Moji Writing Assistant",
+    "description": "Moji is a digital personal assistant application that utilizes artificial intelligence to enhance efficiency and reduce time consumption.\nFeatures: \nMoji offers a diverse selection of topics, including history, science, and current events.\nThe app provides content creation tools, such as email templates, blog writing, and code suggestions.\nIt also offers multimedia tools such as a text-to-image generator, beats generator, logo creation, and cover art creation.\nFor users who require more advanced features, a Pro Access subscription is available.",
+    "category": "Image Generator",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-apps.apple_.com-2023.05.14-02_28_24.png"
+  },
+  {
+    "title": "Detect GPT",
+    "description": "Detect if webpage content is AI-generated\nFeatures: \n",
+    "category": "SEO",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.google.com-2023.05.13-23_02_01.png"
+  },
+  {
+    "title": "Frase",
+    "description": "Frase is an AI-driven SEO and writing tool that provides assistance for a range of content creation tasks, available at no cost.\nFeatures: \nAI writing tools: Content Generator, Outline Generator, Paraphrasing Tool, Blog Title Generator, and more.\nUnique and engaging content: Each tool is tailored to different content types.\nAdditional resources: Live Product Walkthrough, Blog, Crash Course, and Help Center available for support.\nTwitter\nLinkedIn",
+    "category": "Writing",
+    "tags": [
+      " Paid"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.frase_.io-2023.05.13-22_49_25.png"
+  },
+  {
+    "title": "Penelope AI",
+    "description": "Get help from a state-of-the-art AI writing assistant that can speed up your writing process effortlessly. With features such as paraphrasing, summarizing, story generation, and AI autocomplete, you can write better and faster than ever before.\nFeatures: \nTwitter",
+    "category": "Writing",
+    "tags": [
+      " Freemium"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-penelopeai.com-2023.05.13-22_44_06.png"
+  },
+  {
+    "title": "UndetectableGPT",
+    "description": "UndetectableGPT is an AI-powered writing tool that creates articles specifically designed to evade detection by other AI systems. Users can choose from various writing styles, mix them together, and customize the output, making it a versatile content creation solution.\nFeatures: \nUndetectableGPT generates articles that bypass AI detectors\nOffers various writing styles to choose from\nMix and match styles to achieve the desired tone\nCustomize the word count for generated content\nUtilizes advanced AI technology with OpenAI GPT-3 API.",
+    "category": "Writing",
+    "tags": [
+      " Free"
+    ],
+    "image": "https://aivalley.ai/wp-content/uploads/2023/05/screenshot-www.undetectablegpt.com-2023.05.13-22_40_02.png"
+  },
+]
