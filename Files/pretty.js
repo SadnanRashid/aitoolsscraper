@@ -17,4 +17,4 @@ for (let i = 0; i < data.length; i++) {
   }
 }
 
-writeToFile(data, "AiValleyPretty.json");
+writeToFileArray(data, "AiValleyPretty.json");
